@@ -130,55 +130,66 @@ const capabilities = [
 const experience = [
   {
     current: true,
-    role: "Head of Marketing & Growth",
-    company: "Ankuram IVF · Blossom Fertility · Medica365",
-    period: "2023 — Present",
+    role: "Head of Digital Marketing & Growth",
+    company: "Ankuram IVF · Blossom Maternity & Child Care Hospital · Medica365",
+    period: "Nov 2022 — Present",
     location: "Ranchi, India",
     summary:
-      "Leading marketing, RevOps and AI automation across five healthcare centres — fertility, wellness and primary care.",
+      "Multi-location IVF & fertility healthcare brand — performance marketing, funnel architecture, automation, and clinical ops alignment.",
     bullets: [
-      "Scaled qualified lead volume 5.2× while reducing cost-per-lead by 65% through paid + organic + automation stack.",
-      "Built a Bitrix24 + SmartFlo + n8n routing engine that delivers every new lead to counsellors in under three minutes.",
-      "Designed AEO and schema strategy that surfaces clinic pages inside ChatGPT, Perplexity and Google AI Overviews.",
-      "Operating ₹10L+ monthly ad budgets across Google, Meta and YouTube with attribution back to consult-booked revenue.Operating ₹10L+ monthly ad budgets across Google, Meta and YouTube with attribution back to consult-booked revenue.\n",
+      "Designed and scaled a Meta + Google acquisition engine that grew qualified lead volume 5.2× while reducing blended CPL by 65% and CPA by 25% over 12 months — achieved through structured intent targeting, negative keyword frameworks, and a disciplined A/B experimentation cadence.",
+      "Architected a unified conversion funnel (Ad → Landing Page → WhatsApp/Call → Telecalling → Consultation → Treatment) mapped to CRM pipeline stages, lifting lead-to-consult conversion by 18 percentage points and consult-to-treatment conversion by 9 percentage points.",
+      "Built an automation stack (n8n / Make / Zapier) that ingests 100% of Meta and Google leads into CRM in near-real-time, cutting first-response time from 45–60 minutes to under 5 minutes for priority cohorts — reducing lead leakage by 30–40%.",
+      "Deployed centre-wise and agent-wise lead assignment logic integrated with Tata Smartflo telephony, boosting contact rate by 20% and enabling measurable SLA accountability across telecalling teams.",
+      "Implemented GA4 + GTM with advanced event tracking, custom conversions, and call/OPD attribution; weekly cohort reviews informed budget reallocation decisions that improved estimated ROAS 20–30% across channels.",
+      "Led IVF-specific SEO and AEO roadmap, driving 70–90% YoY growth in organic IVF-intent sessions and securing top-3 positions for core high-intent fertility keywords in target geographies.",
+      "Standardised cross-functional dashboards (marketing, telecalling, clinical) via CRM/HMS integration, enabling centre-wise, doctor-wise, and campaign-wise performance reviews used in monthly business decisions.",
+      "Built and managed an in-house team (designers, video editors, telecallers) and external agency relationships with SOPs covering campaign QA, escalation protocols, and launch checklists — scaling marketing volume 2× without proportional headcount growth.",
     ],
   },
   {
     role: "Marketing Manager",
     company: "Homeline Builders",
-    period: "2021 — 2023",
+    period: "Jul 2021 — Oct 2022",
     location: "Ranchi, India",
     summary:
-      "Owned end-to-end marketing for a residential real-estate brand — brand, performance and on-site conversion.",
+      "Residential real estate developer — digital-first lead generation and sales pipeline support.",
     bullets: [
-      "Built the digital sales funnel from zero — site, CRM, paid media — driving consistent qualified site-visits.",
-      "Launched a referral and lifecycle program that turned home-owners into a repeatable acquisition channel.",
-      "Stood up reporting in GA4 and Power BI to give leadership a weekly view of pipeline by source and project.",
+      "Orchestrated marketing strategies that increased project visibility and contributed to higher property inquiries and site visits through digital-first campaigns.",
+      "Managed end-to-end digital campaigns (Meta + Google) for project launches and ongoing inventory, improving qualified site-visit volume and optimising CPL through iterative creative and targeting experiments.",
+      "Established data-led performance reviews using campaign and CRM sales metrics; reallocated spend across micro-markets based on lead-quality signals, continuously improving pipeline conversion rates.",
+      "Executed integrated digital and on-ground initiatives — brochures, events, digital assets — maintaining consistent brand messaging and supporting booking conversions across multiple active projects.",
+      "Collaborated with leadership to maintain consistent and compelling brand communication across brochures, digital assets, events, and on-ground collaterals.",
     ],
   },
   {
-    role: "Project Lead — Public Health & Livelihoods",
-    company: "RIAOM Services",
-    period: "2019 — 2021",
+    role: "Projects Manager",
+    company: "RIAOM Services Pvt. Ltd.",
+    period: "Jun 2017 — Jun 2021",
     location: "Jharkhand, India",
     summary:
-      "Designed and ran state-level programs across emergency response, telemedicine and rural livelihood activation.",
+      "BFSI, government programs, and social enterprise — operations, field sales, and stakeholder management.",
     bullets: [
-      "Led the COVID-19 emergency response program — logistics, awareness and community mobilization at district scale.",
-      "Stood up telemedicine pilots across rural Jharkhand, connecting primary-care patients to specialists remotely.",
-      "Ran a prison rehabilitation program and supported JSLPS on rural livelihood activation across multiple blocks.",
+      "Onboarded 350+ retail banking kiosks across Jharkhand for financial inclusion programs; managed full-cycle rollout from lead generation and site selection to partner onboarding, agent certification, and post-go-live support.",
+      "Oversaw end-to-end rollout from lead generation to field sales, training, certification, and post-go-live technical support, ensuring productive and compliant kiosk operations.",
+      "Collaborated with JSLPS (Govt. of Jharkhand) to train Self Help Groups and establish market linkages for low-infrastructure manufacturing, generating measurable income for rural communities.",
+      "Led livelihood projects inside Central Jails of Jharkhand (Home & Prisons Dept.) during Covid-19, coordinating with district administration on logistics, field ops, and compliance reporting.",
+      "Coordinated with Ranchi District Administration on citizen-centric initiatives, including distribution of medicines and essentials, aligning field ops, communication, and reporting.",
     ],
   },
   {
-    role: "Digital Marketing Specialist",
-    company: "Superwave Media",
-    period: "2016 — 2019",
+    role: "Projects Executive",
+    company: "Superwave Media Pvt. Ltd.",
+    period: "Jun 2016 — May 2017",
     location: "India",
     summary:
-      "Cut performance teeth on agency-side work — SMB and mid-market campaigns across SEO, Google Ads and Meta.",
+      "Agency-side marketing execution — real-estate client work across digital and traditional channels.",
     bullets: [
-      "Managed paid + organic programs for a portfolio of clients across e-commerce, education and local services.",
-      "Built reporting, creative and landing-page workflows that became templates across the agency.",
+      "Developed and executed integrated marketing strategies to enhance visibility and appeal of Homeline Builders' properties as a key client.",
+      "Managed digital campaigns across social media and search, improving online presence and lead flow for real-estate launches and ongoing projects.",
+      "Utilized both digital and traditional channels to expand reach and drive higher-quality property inquiries supporting sales targets.",
+      "Monitored performance metrics and used insights to adjust messaging, offers, and media mix in line with evolving market conditions.",
+      "Contributed to creation of marketing materials and brand assets, ensuring consistent and effective communication of the brand.",
     ],
   },
 ];
@@ -234,15 +245,24 @@ const projects = [
   },
 ];
 
-const certifications = [
-  "HubSpot RevOps Certified",
-  "Google Analytics (GA4) Certified",
-  "Columbia · Prompt Engineering for ChatGPT",
-  "Meta Certified Digital Marketing Associate",
-  "Canva · Human-Centered Design",
-  "Microsoft Power BI Data Analyst",
-  "Intel AI for All — AI Aware",
-  "Google Ads Search & Display",
+const certifications: { name: string; issuer: string; date: string; url: string }[] = [
+  { name: "Prompt Engineering & Programming with OpenAI", issuer: "Columbia+", date: "May 2026", url: "#" },
+  { name: "HubSpot Revenue Operations Certification", issuer: "HubSpot Academy", date: "Jan 2026", url: "#" },
+  { name: "Social Media Marketing II Certification", issuer: "HubSpot Academy", date: "Jan 2026", url: "#" },
+  { name: "Google Analytics Certification", issuer: "Google", date: "Jan 2026", url: "#" },
+  { name: "Attract & Engage Customers with Digital Marketing", issuer: "Google (Coursera)", date: "Mar 2024", url: "#" },
+  { name: "Foundations of Digital Marketing & E-commerce", issuer: "Google (Coursera)", date: "Jan 2024", url: "#" },
+  { name: "Facebook Marketing", issuer: "Meta", date: "Jan 2024", url: "#" },
+  { name: "Grow Your Business", issuer: "Meta", date: "Jan 2024", url: "#" },
+  { name: "Instagram Marketing", issuer: "Meta", date: "Jan 2024", url: "#" },
+  { name: "Meta Ads Manager Learning", issuer: "Meta", date: "Jan 2024", url: "#" },
+  { name: "WhatsApp Marketing", issuer: "Meta", date: "Jan 2024", url: "#" },
+  { name: "Marketing with Canva", issuer: "Canva Design School", date: "Jan 2026", url: "#" },
+  { name: "Scale Creative Campaigns", issuer: "Canva Design School", date: "Jan 2026", url: "#" },
+  { name: "The Field Guide to Human-Centered Design", issuer: "Canva Design School", date: "Jan 2026", url: "#" },
+  { name: "Power BI Workshop", issuer: "Office Master", date: "Aug 2025", url: "#" },
+  { name: "AI Appreciate Badge — AI For All", issuer: "Intel", date: "Jul 2025", url: "#" },
+  { name: "AI Aware Badge — AI Aware 2025", issuer: "Intel", date: "Jul 2025", url: "#" },
 ];
 
 function Portfolio() {
@@ -566,9 +586,21 @@ function EducationCerts() {
           <h3 className="mt-5 text-lg font-bold text-foreground">Certifications</h3>
           <ul className="mt-5 grid grid-cols-1 md:grid-cols-2 gap-x-6 gap-y-3">
             {certifications.map((c) => (
-              <li key={c} className="flex items-start gap-3 text-sm text-muted-foreground">
+              <li key={c.name} className="flex items-start gap-3 text-sm text-muted-foreground">
                 <span className="mt-2 inline-block h-1.5 w-1.5 flex-none rounded-full bg-[color:var(--accent-indigo)]" />
-                <span>{c}</span>
+                <div className="flex-1">
+                  <a
+                    href={c.url}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="font-medium text-foreground hover:text-[color:var(--accent-cyan)] transition-colors"
+                  >
+                    {c.name}
+                  </a>
+                  <div className="text-xs text-muted-foreground mt-0.5">
+                    {c.issuer} · {c.date}
+                  </div>
+                </div>
               </li>
             ))}
           </ul>
