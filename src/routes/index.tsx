@@ -368,7 +368,7 @@ function Hero() {
             <MapPin className="h-4 w-4 text-[color:var(--accent-cyan)]" /> Ranchi, India
           </span>
           <span className="inline-flex items-center gap-2">
-            <Phone className="h-4 w-4 text-[color:var(--accent-cyan)]" /> {PHONE}
+            <Phone className="h-4 w-4 text-[color:var(--accent-cyan)]" />{PHONE}
           </span>
           <span className="inline-flex items-center gap-2">
             <Mail className="h-4 w-4 text-[color:var(--accent-cyan)]" /> {EMAIL}
@@ -609,7 +609,7 @@ function Footer() {
               href={`tel:${PHONE.replace(/\s/g, "")}`}
               className="inline-flex items-center gap-2 rounded-full border border-border bg-surface/40 px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:bg-surface"
             >
-              <Phone className="h-4 w-4" /> {PHONE}
+              <Phone className="h-4 w-4" />{PHONE}
             </a>
           </div>
         </div>
