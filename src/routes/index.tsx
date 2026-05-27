@@ -586,9 +586,21 @@ function EducationCerts() {
           <h3 className="mt-5 text-lg font-bold text-foreground">Certifications</h3>
           <ul className="mt-5 grid grid-cols-1 md:grid-cols-2 gap-x-6 gap-y-3">
             {certifications.map((c) => (
-              <li key={c} className="flex items-start gap-3 text-sm text-muted-foreground">
+              <li key={c.name} className="flex items-start gap-3 text-sm text-muted-foreground">
                 <span className="mt-2 inline-block h-1.5 w-1.5 flex-none rounded-full bg-[color:var(--accent-indigo)]" />
-                <span>{c}</span>
+                <div className="flex-1">
+                  <a
+                    href={c.url}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="font-medium text-foreground hover:text-[color:var(--accent-cyan)] transition-colors"
+                  >
+                    {c.name}
+                  </a>
+                  <div className="text-xs text-muted-foreground mt-0.5">
+                    {c.issuer} · {c.date}
+                  </div>
+                </div>
               </li>
             ))}
           </ul>
