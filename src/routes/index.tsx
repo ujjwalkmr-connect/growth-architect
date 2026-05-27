@@ -48,7 +48,7 @@ export const Route = createFileRoute("/")({
 });
 
 const EMAIL = "ujjwalkmr@outlook.com";
-const PHONE = "+91 80820 20030";
+const PHONE = "+91 77629 03717";
 const LINKEDIN = "https://www.linkedin.com/in/ujjwalkmr/";
 
 const navLinks = [
@@ -138,9 +138,9 @@ const experience = [
       "Leading marketing, RevOps and AI automation across five healthcare centres — fertility, wellness and primary care.",
     bullets: [
       "Scaled qualified lead volume 5.2× while reducing cost-per-lead by 65% through paid + organic + automation stack.",
-      "Built a HubSpot + Exotel + n8n routing engine that delivers every new lead to counsellors in under three minutes.",
+      "Built a Bitrix24 + SmartFlo + n8n routing engine that delivers every new lead to counsellors in under three minutes.",
       "Designed AEO and schema strategy that surfaces clinic pages inside ChatGPT, Perplexity and Google AI Overviews.",
-      "Operating ₹10L+ monthly ad budgets across Google, Meta and YouTube with attribution back to consult-booked revenue.",
+      "Operating ₹10L+ monthly ad budgets across Google, Meta and YouTube with attribution back to consult-booked revenue.Operating ₹10L+ monthly ad budgets across Google, Meta and YouTube with attribution back to consult-booked revenue.\n",
     ],
   },
   {
@@ -189,7 +189,7 @@ const projects = [
     title: "IVF Growth Engine",
     org: "Ankuram IVF",
     body:
-      "End-to-end acquisition system — paid, SEO, CRM and counsellor routing — that became the operating model for the entire fertility vertical.",
+      "End-to-end acquisition system — paid, SEO, CRM and counsellor routing — that became the operating model for the entire fertility vertical. Designed an integrated system mapping campaigns straight through CRM milestones down to clinical outcomes, allowing weekly data reviews based on actual treatments instead of simple lead volume clicks.",
     tags: ["Healthcare", "Paid + SEO", "HubSpot"],
   },
   {
@@ -197,7 +197,7 @@ const projects = [
     title: "Automation-First Marketing Org",
     org: "Medica365 group",
     body:
-      "Replaced 20+ manual handoffs with n8n and Make workflows — lead routing, WhatsApp nurture, missed-call recovery, daily ops digests.",
+      "Replaced 20+ manual handoffs with n8n and Make workflows — lead routing, WhatsApp nurture, missed-call recovery, daily ops digests. Orchestrated 20+ active automated micro-workflows for real-time lead capture, automated reminders, assignment routing, and reactivation across n8n, Make, and Zapier stacks.",
     tags: ["n8n", "Make", "WhatsApp", "Ops"],
   },
   {
@@ -501,7 +501,7 @@ function Projects() {
     <Section
       id="projects"
       eyebrow="Projects"
-      title="Selected work."
+      title="Featured Growth Projects"
       intro="From IVF growth engines to district-scale public health programs — outcome-led, system-built."
     >
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
