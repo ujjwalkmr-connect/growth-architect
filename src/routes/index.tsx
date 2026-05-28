@@ -390,11 +390,10 @@ function Hero() {
           </p>
 
           <p className="mt-6 max-w-2xl text-base md:text-lg text-muted-foreground leading-relaxed">
-            I lead marketing, RevOps and AI automation at Ankuram IVF, Blossom Fertility and
-            Medica365 — five healthcare centres operating as one growth system. Across nine
-            years, I&rsquo;ve built paid-acquisition, CRM and automation stacks that compound:
-            5.2× lead growth, 65% lower CPL, and under-three-minute response across every
-            channel.
+            I lead Performance Marketing, RevOps and AI automation at Ankuram IVF, Blossom Maternity 
+            and Child Care Hospital and Medica365 — five healthcare centres operating as one growth system. 
+            Across my ten years, I&rsquo;ve built paid-acquisition, CRM and automation stacks that compound:
+            5.2× lead growth, 65% lower CPL, and under-three-minute response across every channel.
           </p>
 
           <div className="mt-9 flex flex-wrap items-center gap-3">
