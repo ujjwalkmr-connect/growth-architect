@@ -296,9 +296,10 @@ function Nav() {
             <a
               key={l.href}
               href={l.href}
-              className="text-sm text-muted-foreground hover:text-foreground transition-colors"
+              className="group relative text-sm text-muted-foreground transition-colors hover:text-foreground"
             >
               {l.label}
+              <span className="pointer-events-none absolute -bottom-1 left-0 h-px w-full origin-right scale-x-0 bg-gradient-brand transition-transform duration-300 ease-out group-hover:origin-left group-hover:scale-x-100" />
             </a>
           ))}
         </nav>
