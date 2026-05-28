@@ -29,10 +29,6 @@ import {
 import { ParticleField } from "@/components/ParticleField";
 import profilePhoto from "@/assets/ujjwal_kumar_02.png";
 
-const TEL_HREF = "tel:+917762903717";
-const MAIL_HREF = "mailto:ujjwalkmr@outlook.com";
-const LINKEDIN_HREF = "https://www.linkedin.com/in/ujjwal-kmr/";
-
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
