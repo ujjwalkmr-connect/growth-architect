@@ -26,6 +26,8 @@ import {
   Landmark,
   Bot,
 } from "lucide-react";
+import { ParticleField } from "@/components/ParticleField";
+import profilePhoto from "@/assets/ujjwal_kumar_02.png";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -294,9 +296,10 @@ function Nav() {
             <a
               key={l.href}
               href={l.href}
-              className="text-sm text-muted-foreground hover:text-foreground transition-colors"
+              className="group relative text-sm text-muted-foreground transition-colors hover:text-foreground"
             >
               {l.label}
+              <span className="pointer-events-none absolute -bottom-1 left-0 h-px w-full origin-right scale-x-0 bg-gradient-brand transition-transform duration-300 ease-out group-hover:origin-left group-hover:scale-x-100" />
             </a>
           ))}
         </nav>
@@ -351,52 +354,134 @@ function Section({
 
 function Hero() {
   return (
-    <section id="about" className="scroll-mt-24 px-6 pt-36 pb-24 md:pt-44 md:pb-32">
-      <div className="mx-auto max-w-7xl">
-        <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-[color:var(--accent-cyan)]/30 bg-[color:var(--accent-cyan)]/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-[color:var(--accent-cyan)]">
-          <Zap className="h-3.5 w-3.5" />
-          Growth & RevOps Architect · 9+ years
+    <section
+      id="about"
+      className="relative scroll-mt-24 overflow-hidden px-6 pt-36 pb-24 md:pt-44 md:pb-32"
+    >
+      {/* Ambient gradient mesh */}
+      <div
+        aria-hidden="true"
+        className="pointer-events-none absolute inset-0 -z-10"
+        style={{
+          background:
+            "radial-gradient(60% 50% at 20% 20%, color-mix(in oklab, var(--accent-cyan) 18%, transparent) 0%, transparent 60%), radial-gradient(50% 40% at 85% 10%, color-mix(in oklab, var(--accent-indigo) 22%, transparent) 0%, transparent 60%), radial-gradient(40% 40% at 70% 90%, color-mix(in oklab, var(--accent-teal) 16%, transparent) 0%, transparent 60%)",
+        }}
+      />
+      {/* Particle constellation */}
+      <div className="pointer-events-none absolute inset-0 -z-10 opacity-70">
+        <ParticleField />
+      </div>
+
+      <div className="mx-auto grid max-w-7xl grid-cols-1 items-center gap-12 lg:grid-cols-12 lg:gap-16">
+        {/* Left column — text & actions */}
+        <div className="lg:col-span-7">
+          <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-[color:var(--accent-cyan)]/30 bg-[color:var(--accent-cyan)]/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-[color:var(--accent-cyan)]">
+            <Zap className="h-3.5 w-3.5" />
+            Growth & RevOps Architect · 9+ years
+          </div>
+
+          <h1 className="text-5xl md:text-7xl lg:text-[5.25rem] font-extrabold tracking-[-0.02em] leading-[0.95] text-foreground">
+            UJJWAL <span className="text-gradient-brand">KUMAR</span>
+          </h1>
+
+          <p className="mt-6 text-2xl md:text-3xl font-semibold tracking-tight text-foreground/90 leading-tight">
+            Building predictable,{" "}
+            <span className="text-gradient-brand">automated engines</span> for scale.
+          </p>
+
+          <p className="mt-6 max-w-2xl text-base md:text-lg text-muted-foreground leading-relaxed">
+            I lead marketing, RevOps and AI automation at Ankuram IVF, Blossom Fertility and
+            Medica365 — five healthcare centres operating as one growth system. Across nine
+            years, I&rsquo;ve built paid-acquisition, CRM and automation stacks that compound:
+            5.2× lead growth, 65% lower CPL, and under-three-minute response across every
+            channel.
+          </p>
+
+          <div className="mt-9 flex flex-wrap items-center gap-3">
+            <a
+              href={`mailto:${EMAIL}`}
+              className="inline-flex items-center gap-2 rounded-full bg-gradient-brand px-6 py-3 text-sm font-semibold text-primary-foreground shadow-[var(--shadow-glow)] transition-all duration-300 ease-out hover:-translate-y-0.5 hover:shadow-[0_18px_40px_-12px_color-mix(in_oklab,var(--accent-cyan)_55%,transparent)] active:translate-y-0 active:scale-[0.98]"
+            >
+              <Mail className="h-4 w-4" /> Email me
+            </a>
+            <a
+              href={TEL_HREF_FROM_PHONE()}
+              className="inline-flex items-center gap-2 rounded-full border border-border bg-surface/50 px-6 py-3 text-sm font-semibold text-foreground backdrop-blur-md transition-all duration-300 ease-out hover:-translate-y-0.5 hover:border-[color:var(--accent-cyan)]/50 hover:bg-surface active:translate-y-0 active:scale-[0.98]"
+            >
+              <Phone className="h-4 w-4 text-[color:var(--accent-cyan)]" /> {PHONE}
+            </a>
+            <a
+              href={LINKEDIN}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 rounded-full border border-border bg-surface/50 px-6 py-3 text-sm font-semibold text-foreground backdrop-blur-md transition-all duration-300 ease-out hover:-translate-y-0.5 hover:border-[color:var(--accent-indigo)]/50 hover:bg-surface active:translate-y-0 active:scale-[0.98]"
+            >
+              <Linkedin className="h-4 w-4 text-[color:var(--accent-indigo)]" /> LinkedIn
+            </a>
+          </div>
+
+          <div className="mt-10 flex flex-wrap items-center gap-x-8 gap-y-3 text-sm text-muted-foreground">
+            <span className="inline-flex items-center gap-2">
+              <MapPin className="h-4 w-4 text-[color:var(--accent-cyan)]" /> Ranchi, India
+            </span>
+            <span className="inline-flex items-center gap-2">
+              <Mail className="h-4 w-4 text-[color:var(--accent-cyan)]" /> {EMAIL}
+            </span>
+          </div>
         </div>
-        <h1 className="max-w-5xl text-4xl md:text-6xl lg:text-7xl font-extrabold tracking-tight leading-[1.05]">
-          Building predictable,{" "}
-          <span className="text-gradient-brand">automated engines</span> for scale.
-        </h1>
-        <p className="mt-8 max-w-3xl text-lg md:text-xl text-muted-foreground leading-relaxed">
-          I lead marketing, RevOps and AI automation at Ankuram IVF, Blossom Fertility and
-          Medica365 — five healthcare centres operating as one growth system. Across nine years,
-          I&rsquo;ve built paid-acquisition, CRM and automation stacks that compound: 5.2× lead
-          growth, 65% lower CPL, and under-three-minute response across every channel.
-        </p>
-        <div className="mt-10 flex flex-wrap items-center gap-4">
-          <a
-            href={`mailto:${EMAIL}`}
-            className="inline-flex items-center gap-2 rounded-full bg-gradient-brand px-6 py-3 text-sm font-semibold text-primary-foreground shadow-[var(--shadow-glow)] transition-transform hover:-translate-y-0.5"
-          >
-            <Mail className="h-4 w-4" /> Start a conversation
-          </a>
-          <a
-            href={LINKEDIN}
-            target="_blank"
-            rel="noreferrer"
-            className="inline-flex items-center gap-2 rounded-full border border-border bg-surface/40 px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:bg-surface"
-          >
-            <Linkedin className="h-4 w-4" /> Connect on LinkedIn
-          </a>
-        </div>
-        <div className="mt-12 flex flex-wrap items-center gap-x-8 gap-y-3 text-sm text-muted-foreground">
-          <span className="inline-flex items-center gap-2">
-            <MapPin className="h-4 w-4 text-[color:var(--accent-cyan)]" /> Ranchi, India
-          </span>
-          <span className="inline-flex items-center gap-2">
-            <Phone className="h-4 w-4 text-[color:var(--accent-cyan)]" />{PHONE}
-          </span>
-          <span className="inline-flex items-center gap-2">
-            <Mail className="h-4 w-4 text-[color:var(--accent-cyan)]" /> {EMAIL}
-          </span>
+
+        {/* Right column — profile portrait */}
+        <div className="lg:col-span-5">
+          <div className="relative mx-auto w-full max-w-md">
+            {/* Glow */}
+            <div
+              aria-hidden="true"
+              className="absolute -inset-6 rounded-[2rem] opacity-70 blur-2xl"
+              style={{ background: "var(--gradient-brand)" }}
+            />
+            {/* Frame */}
+            <div className="relative overflow-hidden rounded-[2rem] border border-white/10 bg-surface/40 p-2 backdrop-blur-xl shadow-[0_30px_80px_-20px_rgba(0,0,0,0.6)]">
+              <div
+                className="absolute inset-0 rounded-[2rem] opacity-60"
+                aria-hidden="true"
+                style={{
+                  background:
+                    "linear-gradient(140deg, color-mix(in oklab, var(--accent-cyan) 30%, transparent), transparent 45%, color-mix(in oklab, var(--accent-indigo) 35%, transparent))",
+                  WebkitMask:
+                    "linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0)",
+                  WebkitMaskComposite: "xor",
+                  maskComposite: "exclude",
+                  padding: 1,
+                }}
+              />
+              <img
+                src={profilePhoto}
+                alt="Portrait of Ujjwal Kumar"
+                className="aspect-square w-full rounded-[1.75rem] object-cover"
+                loading="eager"
+              />
+              {/* Floating badge */}
+              <div className="absolute bottom-5 left-5 rounded-2xl border border-white/10 bg-background/70 px-4 py-3 backdrop-blur-xl shadow-xl">
+                <div className="text-[10px] font-semibold uppercase tracking-[0.18em] text-[color:var(--accent-cyan)]">
+                  Currently
+                </div>
+                <div className="mt-0.5 text-sm font-semibold text-foreground">
+                  Head of Digital Marketing & Growth
+                </div>
+                <div className="text-xs text-muted-foreground">
+                  Ankuram IVF · Blossom · Medica365
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
   );
+}
+
+function TEL_HREF_FROM_PHONE() {
+  return `tel:${PHONE.replace(/\s/g, "")}`;
 }
 
 function Metrics() {
@@ -411,7 +496,7 @@ function Metrics() {
         {metrics.map((m) => (
           <div
             key={m.label}
-            className="group rounded-2xl border border-border bg-surface/30 p-6 md:p-8 transition-colors hover:bg-surface/60"
+            className="group rounded-2xl border border-border bg-surface/30 p-6 md:p-8 transition-all duration-300 ease-out hover:-translate-y-1 hover:scale-[1.02] hover:border-[color:var(--accent-cyan)]/40 hover:bg-surface/60 hover:shadow-[0_20px_50px_-20px_color-mix(in_oklab,var(--accent-cyan)_45%,transparent)]"
           >
             <div className="mb-5 inline-flex h-10 w-10 items-center justify-center rounded-xl bg-[color:var(--accent-cyan)]/10 text-[color:var(--accent-cyan)]">
               <m.icon className="h-5 w-5" />
@@ -439,7 +524,7 @@ function Capabilities() {
         {capabilities.map((c) => (
           <div
             key={c.title}
-            className="rounded-2xl border border-border bg-surface/30 p-6 transition-colors hover:bg-surface/60"
+            className="group rounded-2xl border border-border bg-surface/30 p-6 transition-all duration-300 ease-out hover:-translate-y-1 hover:scale-[1.02] hover:border-[color:var(--accent-cyan)]/40 hover:bg-surface/60 hover:shadow-[0_20px_50px_-20px_color-mix(in_oklab,var(--accent-cyan)_45%,transparent)]"
           >
             <div className="mb-5 inline-flex h-10 w-10 items-center justify-center rounded-xl bg-[color:var(--accent-cyan)]/10 text-[color:var(--accent-cyan)]">
               <c.icon className="h-5 w-5" />
@@ -528,7 +613,7 @@ function Projects() {
         {projects.map((p) => (
           <article
             key={p.title}
-            className="group rounded-2xl border border-border bg-surface/30 p-6 md:p-8 transition-colors hover:bg-surface/60"
+            className="group rounded-2xl border border-border bg-surface/30 p-6 md:p-8 transition-all duration-300 ease-out hover:-translate-y-1 hover:scale-[1.02] hover:border-[color:var(--accent-cyan)]/40 hover:bg-surface/60 hover:shadow-[0_20px_50px_-20px_color-mix(in_oklab,var(--accent-cyan)_45%,transparent)]"
           >
             <div className="flex items-start justify-between gap-4">
               <div className="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-[color:var(--accent-indigo)]/10 text-[color:var(--accent-indigo)]">
@@ -592,7 +677,7 @@ function EducationCerts() {
                   <a
                     href={c.url}
                     target="_blank"
-                    rel="noreferrer"
+                    rel="noopener noreferrer"
                     className="font-medium text-foreground hover:text-[color:var(--accent-cyan)] transition-colors"
                   >
                     {c.name}
@@ -632,7 +717,7 @@ function Footer() {
             <a
               href={LINKEDIN}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-full border border-border bg-surface/40 px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:bg-surface"
             >
               <Linkedin className="h-4 w-4" /> LinkedIn
