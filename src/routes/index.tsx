@@ -495,7 +495,7 @@ function Metrics() {
         {metrics.map((m) => (
           <div
             key={m.label}
-            className="group rounded-2xl border border-border bg-surface/30 p-6 md:p-8 transition-colors hover:bg-surface/60"
+            className="group rounded-2xl border border-border bg-surface/30 p-6 md:p-8 transition-all duration-300 ease-out hover:-translate-y-1 hover:scale-[1.02] hover:border-[color:var(--accent-cyan)]/40 hover:bg-surface/60 hover:shadow-[0_20px_50px_-20px_color-mix(in_oklab,var(--accent-cyan)_45%,transparent)]"
           >
             <div className="mb-5 inline-flex h-10 w-10 items-center justify-center rounded-xl bg-[color:var(--accent-cyan)]/10 text-[color:var(--accent-cyan)]">
               <m.icon className="h-5 w-5" />
@@ -523,7 +523,7 @@ function Capabilities() {
         {capabilities.map((c) => (
           <div
             key={c.title}
-            className="rounded-2xl border border-border bg-surface/30 p-6 transition-colors hover:bg-surface/60"
+            className="group rounded-2xl border border-border bg-surface/30 p-6 transition-all duration-300 ease-out hover:-translate-y-1 hover:scale-[1.02] hover:border-[color:var(--accent-cyan)]/40 hover:bg-surface/60 hover:shadow-[0_20px_50px_-20px_color-mix(in_oklab,var(--accent-cyan)_45%,transparent)]"
           >
             <div className="mb-5 inline-flex h-10 w-10 items-center justify-center rounded-xl bg-[color:var(--accent-cyan)]/10 text-[color:var(--accent-cyan)]">
               <c.icon className="h-5 w-5" />
@@ -612,7 +612,7 @@ function Projects() {
         {projects.map((p) => (
           <article
             key={p.title}
-            className="group rounded-2xl border border-border bg-surface/30 p-6 md:p-8 transition-colors hover:bg-surface/60"
+            className="group rounded-2xl border border-border bg-surface/30 p-6 md:p-8 transition-all duration-300 ease-out hover:-translate-y-1 hover:scale-[1.02] hover:border-[color:var(--accent-cyan)]/40 hover:bg-surface/60 hover:shadow-[0_20px_50px_-20px_color-mix(in_oklab,var(--accent-cyan)_45%,transparent)]"
           >
             <div className="flex items-start justify-between gap-4">
               <div className="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-[color:var(--accent-indigo)]/10 text-[color:var(--accent-indigo)]">
