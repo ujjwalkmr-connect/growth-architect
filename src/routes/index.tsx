@@ -730,7 +730,7 @@ function Footer() {
           </div>
         </div>
         <div className="mt-10 flex flex-col md:flex-row items-start md:items-center justify-between gap-4 text-xs text-muted-foreground">
-          <div>© {new Date().getFullYear()} Ujjwal Kumar. Built in Ranchi, India.</div>
+          <div>© {new Date().getFullYear()} Ujjwal Kumar. Built with ❤️ in Bharat.</div>
           <div className="tracking-[0.18em] uppercase">Growth · RevOps · AI Automation</div>
         </div>
       </div>
