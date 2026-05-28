@@ -49,7 +49,7 @@ export const Route = createFileRoute("/")({
 
 const EMAIL = "ujjwalkmr@outlook.com";
 const PHONE = "+91 77629 03717";
-const LINKEDIN = "https://www.linkedin.com/in/ujjwalkmr/";
+const LINKEDIN = "https://www.linkedin.com/in/ujjwal-kmr/";
 
 const navLinks = [
   { label: "Overview", href: "#about" },
