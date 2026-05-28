@@ -676,7 +676,7 @@ function EducationCerts() {
                   <a
                     href={c.url}
                     target="_blank"
-                    rel="noreferrer"
+                    rel="noopener noreferrer"
                     className="font-medium text-foreground hover:text-[color:var(--accent-cyan)] transition-colors"
                   >
                     {c.name}
@@ -716,7 +716,7 @@ function Footer() {
             <a
               href={LINKEDIN}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-full border border-border bg-surface/40 px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:bg-surface"
             >
               <Linkedin className="h-4 w-4" /> LinkedIn
