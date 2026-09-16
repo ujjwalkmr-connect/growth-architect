@@ -60,6 +60,14 @@ npm run typecheck
 npm run build
 ```
 
+If the original repository still tracks old generated Vercel output, run this once before committing:
+
+```powershell
+git rm -r --cached --ignore-unmatch .vercel
+```
+
+This removes the old build files from Git tracking while keeping the local copy. The supplied `.gitignore` prevents them being added again. Include these deletions in the commit. Vercel must build the current source, rather than detect an old `.vercel/output` bundle.
+
 The tests should pass, type checking should finish without errors, and the build should report success. To view the website locally, run `npm run dev` and open **http://127.0.0.1:5173**. If that port is already in use, the Codex preview may already be running; the successful build is sufficient for this step.
 
 Return to GitHub Desktop:
@@ -219,6 +227,7 @@ Use your own email address for one test. Do not use a real recruiter's details f
 | GitHub asks to fork, or says permission denied | Sign in as the repository owner or obtain write access. A fork is not your current deployment repository. |
 | No website project in Vercel | Switch to the account/team owning `ujjwalkmr.vercel.app`. |
 | Red/failed Vercel deployment | Open its Build Logs. Check the first actual error, Node version, root directory and build settings. |
+| “Config file was not found” under `.vercel/output`, with “Using prebuilt build artifacts” in the log | Old generated files are still tracked in Git. Run the cleanup command in step 3, commit the deletions and `.gitignore`, then push the branch. Open the new deployment for the new commit; retrying the old commit retains the problem. |
 | `npm ci` keeps spinning in a Documents folder | On this computer, Windows Controlled Folder Access blocks that location. Use the repository copy at `C:\Users\Ankuram IVF\Downloads\growth-architect-deploy`. In GitHub Desktop, choose **File → Add local repository** and select that folder. |
 | Pages work, but Send message is disabled | Check the Production Turnstile site key, allowed hostname and redeploy. |
 | “Form is not configured” | Check all form-related Production variables and redeploy. |
