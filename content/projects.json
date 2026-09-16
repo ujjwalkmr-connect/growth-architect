@@ -1,0 +1,261 @@
+{
+  "items": [
+    {
+      "id": "ivf-growth-engine",
+      "icon": "Stethoscope",
+      "title": "IVF Growth Engine",
+      "org": "Ankuram IVF",
+      "body": "End-to-end acquisition system — paid, SEO, CRM and counsellor routing — that became the operating model for the entire fertility vertical. Designed an integrated system mapping campaigns straight through CRM milestones down to clinical outcomes, allowing weekly data reviews based on actual treatments instead of simple lead volume clicks.",
+      "tags": [
+        "Healthcare",
+        "Paid + SEO",
+        "HubSpot"
+      ],
+      "status": "published",
+      "featured": true,
+      "details": "## Project overview\n\nEnd-to-end acquisition system — paid, SEO, CRM and counsellor routing — that became the operating model for the entire fertility vertical. Designed an integrated system mapping campaigns straight through CRM milestones down to clinical outcomes, allowing weekly data reviews based on actual treatments instead of simple lead volume clicks.",
+      "cover": "",
+      "coverAlt": "",
+      "role": "",
+      "period": "",
+      "outcome": "",
+      "gallery": []
+    },
+    {
+      "id": "automation-first-marketing-org",
+      "icon": "Bot",
+      "title": "Automation-First Marketing Org",
+      "org": "Medica365 group",
+      "body": "Replaced 20+ manual handoffs with n8n and Make workflows — lead routing, WhatsApp nurture, missed-call recovery, daily ops digests. Orchestrated 20+ active automated micro-workflows for real-time lead capture, automated reminders, assignment routing, and reactivation across n8n, Make, and Zapier stacks.",
+      "tags": [
+        "n8n",
+        "Make",
+        "WhatsApp",
+        "Ops"
+      ],
+      "status": "published",
+      "featured": true,
+      "details": "## Project overview\n\nReplaced 20+ manual handoffs with n8n and Make workflows — lead routing, WhatsApp nurture, missed-call recovery, daily ops digests. Orchestrated 20+ active automated micro-workflows for real-time lead capture, automated reminders, assignment routing, and reactivation across n8n, Make, and Zapier stacks.",
+      "cover": "",
+      "coverAlt": "",
+      "role": "",
+      "period": "",
+      "outcome": "",
+      "gallery": []
+    },
+    {
+      "id": "aeo-ai-search-alignment",
+      "icon": "Search",
+      "title": "AEO & AI-Search Alignment",
+      "org": "Blossom Fertility",
+      "body": "Content, schema and entity strategy that surfaces clinic answers inside ChatGPT, Perplexity and Google AI Overviews.",
+      "tags": [
+        "AEO",
+        "Schema",
+        "AI Search"
+      ],
+      "status": "published",
+      "featured": true,
+      "details": "## Project overview\n\nContent, schema and entity strategy that surfaces clinic answers inside ChatGPT, Perplexity and Google AI Overviews.",
+      "cover": "",
+      "coverAlt": "",
+      "role": "",
+      "period": "",
+      "outcome": "",
+      "gallery": []
+    },
+    {
+      "id": "saral-pe-fintech-launch",
+      "icon": "Landmark",
+      "title": "Saral Pe FinTech Launch",
+      "org": "Saral Pe",
+      "body": "Go-to-market for a merchant fintech network — brand, performance and field activation across multiple cities.",
+      "tags": [
+        "FinTech",
+        "GTM",
+        "Field + digital"
+      ],
+      "status": "published",
+      "featured": true,
+      "details": "## Project overview\n\nGo-to-market for a merchant fintech network — brand, performance and field activation across multiple cities.",
+      "cover": "",
+      "coverAlt": "",
+      "role": "",
+      "period": "",
+      "outcome": "",
+      "gallery": []
+    },
+    {
+      "id": "covid-19-emergency-response",
+      "icon": "Heart",
+      "title": "COVID-19 Emergency Response",
+      "org": "RIAOM Services",
+      "body": "District-scale logistics, awareness and community mobilization during the pandemic across Jharkhand.",
+      "tags": [
+        "Public health",
+        "Ops",
+        "Comms"
+      ],
+      "status": "published",
+      "featured": true,
+      "details": "## Project overview\n\nDistrict-scale logistics, awareness and community mobilization during the pandemic across Jharkhand.",
+      "cover": "",
+      "coverAlt": "",
+      "role": "",
+      "period": "",
+      "outcome": "",
+      "gallery": []
+    },
+    {
+      "id": "rural-telemedicine-pilots",
+      "icon": "Stethoscope",
+      "title": "Rural Telemedicine Pilots",
+      "org": "Jharkhand state program",
+      "body": "Connected rural primary-care patients to specialists via telemedicine — protocols, training and adoption tracking.",
+      "tags": [
+        "Telemedicine",
+        "Rural",
+        "Pilots"
+      ],
+      "status": "published",
+      "featured": true,
+      "details": "## Project overview\n\nConnected rural primary-care patients to specialists via telemedicine — protocols, training and adoption tracking.",
+      "cover": "",
+      "coverAlt": "",
+      "role": "",
+      "period": "",
+      "outcome": "",
+      "gallery": []
+    },
+    {
+      "id": "prison-inmate-rehabilitation-micro-manufacturing-program",
+      "title": "Prison Inmate Rehabilitation & Micro-Manufacturing Program",
+      "org": "Government of Jharkhand",
+      "icon": "Landmark",
+      "body": "Led an inmate rehabilitation initiative establishing micro-manufacturing units across 3 central jails. Introduced a “Learn and Earn” model spanning FMCG, agriculture and food processing to support economic independence.",
+      "tags": [
+        "Rehabilitation",
+        "Manufacturing",
+        "Programme operations"
+      ],
+      "status": "published",
+      "featured": true,
+      "details": "## Project overview\n\nLed an inmate rehabilitation initiative establishing micro-manufacturing units across 3 central jails. Introduced a “Learn and Earn” model spanning FMCG, agriculture and food processing to support economic independence.",
+      "cover": "",
+      "coverAlt": "",
+      "role": "",
+      "period": "",
+      "outcome": "",
+      "gallery": []
+    },
+    {
+      "id": "rural-livelihood-micro-entrepreneurship-program",
+      "title": "Rural Livelihood & Micro-Entrepreneurship Program",
+      "org": "JSLPS · Government of Jharkhand",
+      "icon": "Heart",
+      "body": "Mobilised 15 Self-Help Groups across 150+ households to establish sustainable micro-manufacturing units and develop market linkages through a rural livelihood initiative with JSLPS.",
+      "tags": [
+        "JSLPS",
+        "Self-Help Groups",
+        "Market linkages"
+      ],
+      "status": "published",
+      "featured": true,
+      "details": "## Project overview\n\nMobilised 15 Self-Help Groups across 150+ households to establish sustainable micro-manufacturing units and develop market linkages through a rural livelihood initiative with JSLPS.",
+      "cover": "",
+      "coverAlt": "",
+      "role": "",
+      "period": "",
+      "outcome": "",
+      "gallery": []
+    },
+    {
+      "id": "fieldops-healthcare-field-operations-platform",
+      "title": "FieldOps — Healthcare Field Operations Platform",
+      "org": "Ankuram IVF",
+      "icon": "Cpu",
+      "body": "Led product requirements and iterative AI-assisted delivery of web and Android workflows for doctor onboarding, visits, referrals, camps and management dashboards. Defined access and contact-visibility requirements, reviewed UI/UX, supported deployment troubleshooting, and developed bilingual guides and handover material.",
+      "tags": [
+        "TypeScript",
+        "Supabase",
+        "Android",
+        "Product operations"
+      ],
+      "status": "published",
+      "featured": true,
+      "details": "## Project overview\n\nLed product requirements and iterative AI-assisted delivery of web and Android workflows for doctor onboarding, visits, referrals, camps and management dashboards. Defined access and contact-visibility requirements, reviewed UI/UX, supported deployment troubleshooting, and developed bilingual guides and handover material.",
+      "cover": "",
+      "coverAlt": "",
+      "role": "",
+      "period": "",
+      "outcome": "",
+      "gallery": []
+    },
+    {
+      "id": "lead-data-reconciliation-crm-reliability",
+      "title": "Lead Data Reconciliation & CRM Reliability",
+      "org": "Ankuram IVF",
+      "icon": "Workflow",
+      "body": "Investigated Meta-to-Google Sheets-to-Bitrix24 sync failures, field-mapping constraints and missing records. Designed reconciliation checks and reporting requirements to improve data traceability and campaign-to-CRM visibility.",
+      "tags": [
+        "Meta",
+        "Google Sheets",
+        "Bitrix24",
+        "Apps Script"
+      ],
+      "status": "published",
+      "featured": true,
+      "details": "## Project overview\n\nInvestigated Meta-to-Google Sheets-to-Bitrix24 sync failures, field-mapping constraints and missing records. Designed reconciliation checks and reporting requirements to improve data traceability and campaign-to-CRM visibility.",
+      "cover": "",
+      "coverAlt": "",
+      "role": "",
+      "period": "",
+      "outcome": "",
+      "gallery": []
+    },
+    {
+      "id": "telecalling-performance-management-reporting",
+      "title": "Telecalling Performance & Management Reporting",
+      "org": "Ankuram IVF · Blossom · Medica365",
+      "icon": "Building2",
+      "body": "Designed caller scorecards, month-on-month comparisons and consultation/conversion reporting, translating management requirements into individual performance reviews and targeted improvement actions.",
+      "tags": [
+        "Telecalling",
+        "Scorecards",
+        "Management reporting"
+      ],
+      "status": "published",
+      "featured": true,
+      "details": "## Project overview\n\nDesigned caller scorecards, month-on-month comparisons and consultation/conversion reporting, translating management requirements into individual performance reviews and targeted improvement actions.",
+      "cover": "",
+      "coverAlt": "",
+      "role": "",
+      "period": "",
+      "outcome": "",
+      "gallery": []
+    },
+    {
+      "id": "multi-platform-content-operations",
+      "title": "Multi-platform Content Operations",
+      "org": "Ankuram IVF · Blossom · Medica365",
+      "icon": "Search",
+      "body": "Structured weekly content pillars and calendars across Instagram, Facebook, YouTube and LinkedIn, including doctor-led education, case narratives, camp communications and creative briefs. Coordinated publishing workflows through Meta Business Suite, Buffer and Hootsuite.",
+      "tags": [
+        "Content operations",
+        "Meta Business Suite",
+        "Buffer",
+        "Hootsuite"
+      ],
+      "status": "published",
+      "featured": true,
+      "details": "## Project overview\n\nStructured weekly content pillars and calendars across Instagram, Facebook, YouTube and LinkedIn, including doctor-led education, case narratives, camp communications and creative briefs. Coordinated publishing workflows through Meta Business Suite, Buffer and Hootsuite.",
+      "cover": "",
+      "coverAlt": "",
+      "role": "",
+      "period": "",
+      "outcome": "",
+      "gallery": []
+    }
+  ]
+}
+

@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>Content Manager</title>
+    <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url" />
+    <script>
+      window.CMS_MANUAL_INIT = true;
+    </script>
+  </head>
+  <body>
+    <script src="https://unpkg.com/decap-cms@3.16.2/dist/decap-cms.js"></script>
+    <script>
+      const local = ["localhost", "127.0.0.1", "[::1]"].includes(window.location.hostname);
+      window.CMS.init({
+        config: { local_backend: local ? { url: "http://127.0.0.1:8081/api/v1" } : false },
+      });
+    </script>
+  </body>
+</html>
+

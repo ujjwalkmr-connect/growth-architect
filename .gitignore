@@ -16,6 +16,9 @@ dist-ssr
 .nitro
 *.local
 
+# Resume is held in private Google Drive in production; local testing copies stay untracked.
+/private/
+
 # Wrangler / Cloudflare
 .wrangler/
 .dev.vars

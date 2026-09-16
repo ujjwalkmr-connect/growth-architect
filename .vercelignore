@@ -1,0 +1,6 @@
+private/
+.env*
+node_modules/
+dist/
+.git/
+.vercel/
