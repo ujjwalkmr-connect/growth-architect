@@ -1,0 +1,98 @@
+{
+  "createdAt": "2026-09-18",
+  "mode": "Built-in image_gen tool; one original image per article",
+  "encoding": "WebP at quality 85; original dimensions retained; no content editing or cropping",
+  "note": "Conceptual editorial illustrations, not photographs, real interface screenshots or project evidence.",
+  "images": [
+    {
+      "n": 1,
+      "slug": "healthcare-growth-beyond-cpl",
+      "prompt": "Use case: stylized-concept. Asset: one premium editorial hero illustration for a professional portfolio blog. Wide 16:9 landscape composition, ideally 1536x864. Refined tactile 3D editorial illustration, architectural clarity, matte navy and off-white materials, translucent teal glass, restrained cyan and lavender accents, soft studio light, subtle shadows, deep midnight-blue backdrop. Sophisticated, calm, readable at small size. No text, letters, numbers, logos, watermarks, photographs, people, medical claims, real data or real product screenshots. Keep the entire subject comfortably within the frame. This is conceptual artwork, not evidence of a real deployment. Subject: a healthcare enquiry journey represented by a graceful connected pathway with four distinct sculptural stations: enquiry/message tiles, a conversation symbol, an appointment calendar without numerals, and a small welcoming clinic doorway. The pathway develops from scattered input tiles into a well-organised appointment flow. Add a small subtle cost token beside the entry, subordinate to the complete journey. Premium clean visual metaphor for measuring beyond cost per lead; no funnels, syringes, anatomical organs, patient figures or stock medical photography.",
+      "asset": "public/media/blogs/healthcare-growth-beyond-cpl.webp",
+      "publicUrl": "/media/blogs/healthcare-growth-beyond-cpl.webp",
+      "alt": "Editorial illustration of enquiries progressing through conversation and appointment booking to a clinic.",
+      "caption": "From enquiry to consultation: a connected operating journey. AI-generated editorial illustration."
+    },
+    {
+      "n": 2,
+      "slug": "crm-lead-reconciliation",
+      "prompt": "Use case: stylized-concept. Asset: one premium editorial hero illustration for a professional portfolio blog. Wide 16:9 landscape composition, ideally 1536x864. Refined tactile 3D editorial illustration, architectural clarity, matte navy and off-white materials, translucent teal glass, restrained cyan and lavender accents, soft studio light, subtle shadows, deep midnight-blue backdrop. Sophisticated, calm, readable at small size. No text, letters, numbers, logos, watermarks, photographs, people, medical claims, real data or real product screenshots. Keep the entire subject comfortably within the frame. This is conceptual artwork, not evidence of a real deployment. Subject: three separate organised stacks of small database record cards converge onto a central ledger via precise luminous connecting threads. Distinct teal and lavender enquiry tokens remain individually identifiable; ambiguous tokens rest in a small separate review tray. A few discreet checkmark symbols suggest verified relationships. Clear metaphor for reconciling CRM records while preserving unique enquiries. Use sculptural physical cards and glass bridges, not a screenshot or readable interface.",
+      "asset": "public/media/blogs/crm-lead-reconciliation.webp",
+      "publicUrl": "/media/blogs/crm-lead-reconciliation.webp",
+      "alt": "Editorial illustration of distinct enquiry records reconciled into a central ledger through verified connections.",
+      "caption": "Distinct enquiries connected through verified record relationships. AI-generated editorial illustration."
+    },
+    {
+      "n": 3,
+      "slug": "reliable-marketing-automation",
+      "prompt": "Use case: stylized-concept. Asset: one premium editorial hero illustration for a professional portfolio blog. Wide 16:9 landscape composition, ideally 1536x864. Refined tactile 3D editorial illustration, architectural clarity, matte navy and off-white materials, translucent teal glass, restrained cyan and lavender accents, soft studio light, subtle shadows, deep midnight-blue backdrop. Sophisticated, calm, readable at small size. No text, letters, numbers, logos, watermarks, photographs, people, medical claims, real data or real product screenshots. Keep the entire subject comfortably within the frame. This is conceptual artwork, not evidence of a real deployment. Subject: a well-engineered circular workflow built from four precision-machined modular blocks joined by slender teal tracks. One lavender branch briefly loops into a small recovery station and returns to the main path, while completed teal tokens sit in an orderly output tray. A protective arch and one checkmark express reliability. Sophisticated physical metaphor for retries and recovery, no gears clutter, no robot, no letters, no arrow spaghetti.",
+      "asset": "public/media/blogs/reliable-marketing-automation.webp",
+      "publicUrl": "/media/blogs/reliable-marketing-automation.webp",
+      "alt": "Editorial illustration of an automated workflow with a recovery loop and verified completed outputs.",
+      "caption": "Reliable workflows include a clear path for recovery. AI-generated editorial illustration."
+    },
+    {
+      "n": 4,
+      "slug": "revops-dashboard-metrics-decisions",
+      "prompt": "Use case: stylized-concept. Asset: one premium editorial hero illustration for a professional portfolio blog. Wide 16:9 landscape composition, ideally 1536x864. Refined tactile 3D editorial illustration, architectural clarity, matte navy and off-white materials, translucent teal glass, restrained cyan and lavender accents, soft studio light, subtle shadows, deep midnight-blue backdrop. Sophisticated, calm, readable at small size. No text, letters, numbers, logos, watermarks, photographs, people, real data or real product screenshots. Keep the entire subject comfortably within the frame. This is conceptual artwork, not evidence of a real deployment. Subject: a sculptural executive decision console. Three carefully arranged translucent panels show abstract bars, a segmented journey and a small data-quality check symbol, with no numerical axes. A single clear pathway connects these panels to an off-white decision tile with a compass needle, then to three organised action blocks. Premium editorial metaphor for metrics becoming accountable management decisions. Avoid fake screenshots, trend arrows promising growth, clutter or finance trading imagery.",
+      "asset": "public/media/blogs/revops-dashboard-metrics-decisions.webp",
+      "publicUrl": "/media/blogs/revops-dashboard-metrics-decisions.webp",
+      "alt": "Editorial illustration connecting measurement panels to a decision compass and accountable actions.",
+      "caption": "Metrics become useful when they inform a decision and an owner. AI-generated editorial illustration."
+    },
+    {
+      "n": 5,
+      "slug": "field-operations-software",
+      "prompt": "Use case: stylized-concept. Asset: one premium editorial hero illustration for a professional portfolio blog. Wide 16:9 landscape composition, ideally 1536x864. Refined tactile 3D editorial illustration, architectural clarity, matte navy and off-white materials, translucent teal glass, restrained cyan and lavender accents, soft studio light, subtle shadows, deep midnight-blue backdrop. Sophisticated, calm, readable at small size. No text, letters, numbers, logos, watermarks, photographs, people, real data or real product screenshots. Keep the entire subject comfortably within the frame. This is conceptual artwork, not evidence of a real deployment. Subject: a slim upright smartphone with a simplified task checklist of unlabelled rows and check symbols, standing on a beautifully crafted small terrain map. Three distinct teal location pins and tiny off-white office/clinic pavilions connect along a route. An inset lavender synchronisation ring links an offline task token back to the phone. Clearly communicates field visits, follow-up and connectivity. No real map, location names, human figures, brand UI, medical equipment or surveillance imagery.",
+      "asset": "public/media/blogs/field-operations-software.webp",
+      "publicUrl": "/media/blogs/field-operations-software.webp",
+      "alt": "Editorial illustration of a mobile field-work checklist linked to clinic visits and synchronisation.",
+      "caption": "Field activity connected with follow-up and reliable synchronisation. AI-generated editorial illustration."
+    },
+    {
+      "n": 6,
+      "slug": "ai-assisted-product-delivery",
+      "prompt": "Use case: stylized-concept. Asset: one premium editorial hero illustration for a professional portfolio blog. Wide 16:9 landscape composition, ideally 1536x864. Refined tactile 3D editorial illustration, architectural clarity, matte navy and off-white materials, translucent teal glass, restrained cyan and lavender accents, soft studio light, subtle shadows, deep midnight-blue backdrop. Sophisticated, calm, readable at small size. No text, letters, numbers, logos, watermarks, photographs, people, real data or real product screenshots. Keep the entire subject comfortably within the frame. This is conceptual artwork, not evidence of a real deployment. Subject: a carefully staged product delivery workbench. A softly luminous abstract lattice of small interconnected cubes represents AI assistance at left, beside a blank folded requirements card; an elegant off-white modular application frame is assembled in the middle; a teal verification gate with a check symbol and a neatly finished product tile sit to the right. Communicate thoughtful design, human-defined review and dependable delivery through physical objects. No humanoid robot, brain, magic wand, code text or fake software screenshot.",
+      "asset": "public/media/blogs/ai-assisted-product-delivery.webp",
+      "publicUrl": "/media/blogs/ai-assisted-product-delivery.webp",
+      "alt": "Editorial illustration of AI-assisted product assembly moving through requirements and a verification gate.",
+      "caption": "From a defined workflow to a verified product increment. AI-generated editorial illustration."
+    },
+    {
+      "n": 7,
+      "slug": "aeo-healthcare-websites",
+      "prompt": "Use case: stylized-concept. Asset: one premium editorial hero illustration for a professional portfolio blog. Wide 16:9 landscape composition, ideally 1536x864. Refined tactile 3D editorial illustration, architectural clarity, matte navy and off-white materials, translucent teal glass, restrained cyan and lavender accents, soft studio light, subtle shadows, deep midnight-blue backdrop. Sophisticated, calm, readable at small size. No text, letters, numbers, logos, watermarks, photographs, people, real data or real product screenshots. Keep the entire subject comfortably within the frame. This is conceptual artwork, not evidence of a real deployment. Subject: a carefully constructed miniature editorial library of open off-white page panels and a small abstract clinic pavilion. A large elegant teal magnifying lens reveals a clear answer card shaped as a speech bubble, backed by a modest verified check symbol and small linked citation tabs without words. Two subtle translucent search paths lead to the answer. Communicate clear healthcare information, trustworthy evidence and discovery. No anatomical imagery, treatment claims, medical product imagery, AI robot or brand logos.",
+      "asset": "public/media/blogs/aeo-healthcare-websites.webp",
+      "publicUrl": "/media/blogs/aeo-healthcare-websites.webp",
+      "alt": "Editorial illustration of a magnifying lens revealing a supported healthcare answer among reference pages.",
+      "caption": "Clear answers supported by evidence and useful context. AI-generated editorial illustration."
+    },
+    {
+      "n": 8,
+      "slug": "real-estate-lead-quality",
+      "prompt": "Use case: stylized-concept. Asset: one premium editorial hero illustration for a professional portfolio blog. Wide 16:9 landscape composition, ideally 1536x864. Refined tactile 3D editorial illustration, architectural clarity, matte navy and off-white materials, translucent teal glass, restrained cyan and lavender accents, soft studio light, subtle shadows, deep midnight-blue backdrop. Sophisticated, calm, readable at small size. No text, letters, numbers, logos, watermarks, photographs, people, real data or real product screenshots. Keep the entire subject comfortably within the frame. This is conceptual artwork, not evidence of a real deployment. Subject: a contemporary off-white architectural model of a small residential development with warm windows, placed on an elegant site plan. A teal enquiry card and location pin connect via three deliberate pathway markers to the property entrance; beside the entrance a sculptural calendar tile with a single checked square suggests a confirmed site visit. A restrained lavender secondary route suggests qualification before arrival. Professional property-marketing editorial artwork; no price tags, currency, numbers, actual developer branding or unrealistic skyscrapers.",
+      "asset": "public/media/blogs/real-estate-lead-quality.webp",
+      "publicUrl": "/media/blogs/real-estate-lead-quality.webp",
+      "alt": "Editorial illustration of a property enquiry progressing to a scheduled visit at a residential development.",
+      "caption": "A clear path from property enquiry to a relevant site visit. AI-generated editorial illustration."
+    },
+    {
+      "n": 9,
+      "slug": "rural-market-rollout",
+      "prompt": "Use case: stylized-concept. Asset: one premium editorial hero illustration for a professional portfolio blog. Wide 16:9 landscape composition, ideally 1536x864. Refined tactile 3D editorial illustration, architectural clarity, matte navy and off-white materials, translucent teal glass, restrained cyan and lavender accents, soft studio light, subtle shadows, deep midnight-blue backdrop. Sophisticated, calm, readable at small size. No text, letters, numbers, logos, watermarks, photographs, people, real data or real product screenshots. Keep the entire subject comfortably within the frame. This is conceptual artwork, not evidence of a real deployment. Subject: a carefully crafted miniature rural service network, three small contemporary Indian village shop kiosks with simple awnings, clean terraced landscape, a few abstract trees, connected by teal paths. The foreground kiosk has a modest unbranded service terminal and a warm lit interior; nearby training checklist and activation check tokens illustrate readiness and ongoing support. Dignified, capable local enterprise, not poverty imagery. No people, cash piles, real map, bank logos, readable signs or historical documentary look.",
+      "asset": "public/media/blogs/rural-market-rollout.webp",
+      "publicUrl": "/media/blogs/rural-market-rollout.webp",
+      "alt": "Editorial illustration of connected rural service kiosks with training, activation and support checkpoints.",
+      "caption": "A service network built around readiness and continuing use. AI-generated editorial illustration."
+    },
+    {
+      "n": 10,
+      "slug": "growth-it-leadership-first-90-days",
+      "prompt": "Use case: stylized-concept. Asset: one premium editorial hero illustration for a professional portfolio blog. Wide 16:9 landscape composition, ideally 1536x864. Refined tactile 3D editorial illustration, architectural clarity, matte navy and off-white materials, translucent teal glass, restrained cyan and lavender accents, soft studio light, subtle shadows, deep midnight-blue backdrop. Sophisticated, calm, readable at small size. No text, letters, numbers, logos, watermarks, photographs, people, real data or real product screenshots. Keep the entire subject comfortably within the frame. This is conceptual artwork, not evidence of a real deployment. Subject: three broad elegant architectural stages arranged as a purposeful upward but modest path across the frame. First stage: an open discovery map with connected markers; middle: a compact set of interlocking operating modules and a single experiment token; final: a compass, completed checklist and a stable team-coordination network of abstract nodes. Thin teal connections unite the stages, with restrained lavender milestone accents. Metaphor for a considered leadership plan progressing from diagnosis to tested improvement to accountable operation. No text, digits, rocket ships, trophies, people or exaggerated growth charts.",
+      "asset": "public/media/blogs/growth-it-leadership-first-90-days.webp",
+      "publicUrl": "/media/blogs/growth-it-leadership-first-90-days.webp",
+      "alt": "Editorial illustration of a leadership plan progressing from discovery to tested improvement and accountable operations.",
+      "caption": "A considered progression from diagnosis to dependable operations. AI-generated editorial illustration."
+    }
+  ]
+}

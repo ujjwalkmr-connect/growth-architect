@@ -2,10 +2,10 @@
   "preparedAt": "2026-09-18",
   "author": "Ujjwal Kumar",
   "site": "https://ujjwalkmr.vercel.app",
-  "status": "draft",
+  "status": "published",
   "audience": "Recruiters, founders, healthcare operators, growth leaders and product or operations teams evaluating practical cross-functional expertise.",
   "keywordMethod": "Editorial intent mapping and current primary-source research; no search-volume, keyword-difficulty or ranking forecast is claimed.",
-  "publicationNote": "All articles are local CMS drafts. Cross-article links target this collection; publish the connected collection together or review linked draft destinations before publishing a subset. Publication date must reflect the actual publication day. Future dates require a new deployment on or after that day; this site has no automatic scheduled-post job.",
+  "publicationNote": "All ten approved articles are set to published together in one Git commit and deployment, each with an original editorial illustration, descriptive alt text and image credit. Article prose is unchanged. The welcome placeholder remains a draft. Refer to blog-image-prompts-2026-09-18.json for illustration provenance.",
   "technicalSeoNote": "The existing article route sets a title. The current code does not map excerpt to a per-article meta description or provide dedicated canonical/Open Graph/Article schema configuration. Descriptions and canonical targets below are prepared editorial values, not a claim that those tags are already implemented. No website code or layout was changed.",
   "articles": [
     {
@@ -38,7 +38,9 @@
       ],
       "externalSources": [
         "https://support.google.com/adspolicy/answer/143465?hl=en"
-      ]
+      ],
+      "heroImage": "/media/blogs/healthcare-growth-beyond-cpl.webp",
+      "heroAlt": "Editorial illustration of enquiries progressing through conversation and appointment booking to a clinic."
     },
     {
       "number": 2,
@@ -68,7 +70,9 @@
       ],
       "externalSources": [
         "https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/"
-      ]
+      ],
+      "heroImage": "/media/blogs/crm-lead-reconciliation.webp",
+      "heroAlt": "Editorial illustration of distinct enquiry records reconciled into a central ledger through verified connections."
     },
     {
       "number": 3,
@@ -101,7 +105,9 @@
       "externalSources": [
         "https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/",
         "https://developers.google.com/apps-script/guides/services/quotas"
-      ]
+      ],
+      "heroImage": "/media/blogs/reliable-marketing-automation.webp",
+      "heroAlt": "Editorial illustration of an automated workflow with a recovery loop and verified completed outputs."
     },
     {
       "number": 4,
@@ -131,7 +137,9 @@
       ],
       "externalSources": [
         "https://support.google.com/analytics/answer/10596866"
-      ]
+      ],
+      "heroImage": "/media/blogs/revops-dashboard-metrics-decisions.webp",
+      "heroAlt": "Editorial illustration connecting measurement panels to a decision compass and accountable actions."
     },
     {
       "number": 5,
@@ -163,7 +171,9 @@
       "externalSources": [
         "https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html",
         "https://developer.android.com/topic/architecture/data-layer/offline-first"
-      ]
+      ],
+      "heroImage": "/media/blogs/field-operations-software.webp",
+      "heroAlt": "Editorial illustration of a mobile field-work checklist linked to clinic visits and synchronisation."
     },
     {
       "number": 6,
@@ -197,7 +207,9 @@
       "externalSources": [
         "https://docs.github.com/en/copilot/responsible-use/agents",
         "https://dora.dev/research/2025/dora-report/"
-      ]
+      ],
+      "heroImage": "/media/blogs/ai-assisted-product-delivery.webp",
+      "heroAlt": "Editorial illustration of AI-assisted product assembly moving through requirements and a verification gate."
     },
     {
       "number": 7,
@@ -231,7 +243,9 @@
         "https://developers.google.com/search/docs/appearance/ai-features",
         "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
         "https://developers.google.com/search/docs/appearance/ai-features"
-      ]
+      ],
+      "heroImage": "/media/blogs/aeo-healthcare-websites.webp",
+      "heroAlt": "Editorial illustration of a magnifying lens revealing a supported healthcare answer among reference pages."
     },
     {
       "number": 8,
@@ -265,7 +279,9 @@
       ],
       "externalSources": [
         "https://support.google.com/analytics/answer/10917952"
-      ]
+      ],
+      "heroImage": "/media/blogs/real-estate-lead-quality.webp",
+      "heroAlt": "Editorial illustration of a property enquiry progressing to a scheduled visit at a residential development."
     },
     {
       "number": 9,
@@ -297,7 +313,9 @@
       ],
       "externalSources": [
         "https://www.cgap.org/research/publication/agent-management-toolkit"
-      ]
+      ],
+      "heroImage": "/media/blogs/rural-market-rollout.webp",
+      "heroAlt": "Editorial illustration of connected rural service kiosks with training, activation and support checkpoints."
     },
     {
       "number": 10,
@@ -329,9 +347,12 @@
         "/projects",
         "/contact"
       ],
-      "externalSources": []
+      "externalSources": [],
+      "heroImage": "/media/blogs/growth-it-leadership-first-90-days.webp",
+      "heroAlt": "Editorial illustration of a leadership plan progressing from discovery to tested improvement and accountable operations."
     }
   ],
   "totalWords": 14076,
-  "sourceCount": 12
+  "sourceCount": 12,
+  "publicationDate": "2026-09-18"
 }

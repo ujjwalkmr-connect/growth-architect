@@ -1,4 +1,6 @@
-# Ten complete blog drafts for Ujjwal Kumar
+# Ten complete blog articles for Ujjwal Kumar
+
+> Publication update — 18 September 2026: all ten articles now have an original editorial illustration and are set to published as one batch. The draft preparation and manual instructions below are retained as historical notes. For the current article status and image paths, see [the editorial manifest](blog-editorial-plan-2026-09-18.json) and [image prompts](blog-image-prompts-2026-09-18.json).
 
 Prepared 18 September 2026. **14,076 words across ten complete articles**, with practical examples, primary-source references, internal case-study links and relevant professional calls to action.
 
