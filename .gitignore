@@ -14,7 +14,11 @@ dist-ssr
 .vinxi
 .tanstack/**
 .nitro
+.vercel/
 *.local
+
+# Resume is held in private Google Drive in production; local testing copies stay untracked.
+/private/
 
 # Wrangler / Cloudflare
 .wrangler/

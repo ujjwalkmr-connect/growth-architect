@@ -1,0 +1,213 @@
+backend:
+  name: github
+  repo: ujjwalkmr-connect/growth-architect
+  branch: main
+  base_url: https://ujjwalkmr.vercel.app
+  auth_endpoint: api/cms-auth
+site_url: https://ujjwalkmr.vercel.app
+display_url: https://ujjwalkmr.vercel.app
+media_folder: public/media
+public_folder: /media
+editor:
+  preview: false
+collections:
+  - name: portfolio
+    label: Portfolio
+    files:
+      - name: experience
+        label: Experience
+        file: content/experience.json
+        fields:
+          - name: items
+            label: Experience entries
+            widget: list
+            summary: "{{fields.role}} — {{fields.company}}"
+            fields:
+              - {
+                  name: id,
+                  label: Stable ID,
+                  widget: string,
+                  pattern:
+                    ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Use lowercase letters, numbers and hyphens."],
+                }
+              - { name: current, label: Current role, widget: boolean, default: false }
+              - { name: role, label: Role, widget: string }
+              - { name: company, label: Company, widget: string }
+              - { name: period, label: Period, widget: string }
+              - { name: location, label: Location, widget: string }
+              - { name: summary, label: Summary, widget: text }
+              - {
+                  name: bullets,
+                  label: Highlights,
+                  widget: list,
+                  field: { name: highlight, label: Highlight, widget: text },
+                }
+      - name: projects
+        label: Projects
+        file: content/projects.json
+        fields:
+          - name: items
+            label: Project entries
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - {
+                  name: id,
+                  label: Stable ID,
+                  widget: string,
+                  pattern:
+                    ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Use lowercase letters, numbers and hyphens."],
+                }
+              - {
+                  name: icon,
+                  label: Icon,
+                  widget: select,
+                  options: [Stethoscope, Bot, Search, Landmark, Heart, Workflow, Cpu, Building2],
+                }
+              - { name: title, label: Title, widget: string }
+              - { name: org, label: Organization, widget: string }
+              - { name: body, label: Description, widget: text }
+              - {
+                  name: tags,
+                  label: Tags,
+                  widget: list,
+                  field: { name: tag, label: Tag, widget: string },
+                }
+              - {
+                  name: status,
+                  label: Publication status,
+                  widget: select,
+                  options: [draft, published],
+                  default: draft,
+                }
+              - { name: featured, label: Featured, widget: boolean, default: false }
+              - {
+                  name: cover,
+                  label: Project cover image,
+                  widget: image,
+                  required: false,
+                  default: "",
+                }
+              - {
+                  name: coverAlt,
+                  label: Cover image description,
+                  widget: string,
+                  required: false,
+                  default: "",
+                }
+              - name: gallery
+                label: Project gallery
+                widget: list
+                required: false
+                default: []
+                summary: "{{fields.caption}}"
+                fields:
+                  - { name: image, label: Image, widget: image }
+                  - { name: alt, label: Image description, widget: string }
+                  - { name: caption, label: Caption, widget: string, required: false, default: "" }
+              - {
+                  name: role,
+                  label: Role on this project,
+                  widget: string,
+                  required: false,
+                  default: "",
+                }
+              - {
+                  name: period,
+                  label: Project period,
+                  widget: string,
+                  required: false,
+                  default: "",
+                }
+              - {
+                  name: outcome,
+                  label: Project outcome,
+                  widget: text,
+                  required: false,
+                  default: "",
+                }
+              - {
+                  name: details,
+                  label: Additional details,
+                  widget: markdown,
+                  required: false,
+                  default: "",
+                }
+      - name: education
+        label: Education
+        file: content/education.json
+        fields:
+          - name: items
+            label: Education entries
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - { name: id, label: Stable ID, widget: string }
+              - { name: title, label: Qualification, widget: string }
+              - { name: institution, label: Institution, widget: string }
+              - { name: description, label: Description, widget: text }
+      - name: certifications
+        label: Certifications
+        file: content/certifications.json
+        fields:
+          - name: items
+            label: Certifications
+            widget: list
+            summary: "{{fields.name}}"
+            fields:
+              - { name: id, label: Stable ID, widget: string }
+              - { name: name, label: Certification, widget: string }
+              - { name: issuer, label: Issuer, widget: string }
+              - { name: date, label: Date, widget: string, required: false }
+              - {
+                  name: url,
+                  label: Credential URL,
+                  widget: string,
+                  required: false,
+                  pattern: ['^https://[^\s]+$|^$', "Use an https URL or leave blank."],
+                }
+  - name: posts
+    label: Blog posts
+    folder: content/posts
+    create: true
+    extension: json
+    format: json
+    slug: "{{fields.slug}}"
+    identifier_field: title
+    summary: "{{title}} — {{status}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - {
+          name: slug,
+          label: URL slug,
+          widget: string,
+          pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Use lowercase letters, numbers and hyphens."],
+        }
+      - { name: excerpt, label: Excerpt, widget: text }
+      - { name: category, label: Category, widget: string }
+      - {
+          name: publishedAt,
+          label: Publication date,
+          widget: datetime,
+          format: YYYY-MM-DD,
+          date_format: YYYY-MM-DD,
+          time_format: false,
+        }
+      - {
+          name: status,
+          label: Publication status,
+          widget: select,
+          options: [draft, published],
+          default: draft,
+        }
+      - { name: body, label: Body, widget: markdown }
+  - name: settings
+    label: Email settings
+    files:
+      - name: notifications
+        label: Contact acknowledgement
+        file: content/settings/notifications.json
+        fields:
+          - { name: acknowledgementSubject, label: Subject, widget: string }
+          - { name: acknowledgementMessage, label: Plain text message, widget: text }
+
