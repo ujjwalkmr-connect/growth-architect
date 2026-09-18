@@ -96,12 +96,15 @@ function ProjectDetail() {
                   key={i}
                   className="overflow-hidden rounded-2xl border border-border bg-surface/30"
                 >
-                  <img
-                    src={image.image}
-                    alt={image.alt || p.title}
-                    loading="lazy"
-                    className="w-full object-contain"
-                  />
+                  <div className="aspect-[4/3] overflow-hidden">
+                    <img
+                      src={image.image}
+                      alt={image.alt || p.title}
+                      loading="lazy"
+                      className={`h-full w-full ${image.fit === "contain" ? "object-contain" : "object-cover"}`}
+                      style={{ objectPosition: image.position || "center" }}
+                    />
+                  </div>
                   {image.caption && (
                     <figcaption className="p-5 text-sm text-muted-foreground">
                       {image.caption}
@@ -118,4 +121,3 @@ function ProjectDetail() {
     </div>
   );
 }
-

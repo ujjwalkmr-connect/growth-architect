@@ -13,7 +13,13 @@ declare module "virtual:portfolio-content" {
       details: string;
       cover?: string;
       coverAlt?: string;
-      gallery?: Array<{ image: string; alt: string; caption: string }>;
+      gallery?: Array<{
+        image: string;
+        alt: string;
+        caption: string;
+        fit?: "cover" | "contain";
+        position?: "center" | "top" | "bottom" | "left" | "right";
+      }>;
       role?: string;
       period?: string;
       outcome?: string;
@@ -30,4 +36,3 @@ declare module "virtual:portfolio-content" {
   };
   export default value;
 }
-

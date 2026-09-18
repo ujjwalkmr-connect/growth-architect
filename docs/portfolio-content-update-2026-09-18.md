@@ -88,3 +88,11 @@ The existing preservation suite was updated only to permit the owner-requested A
 - Total added media: 1,870,505 bytes; photos encoded as WebP, redacted screenshot lossless PNG.
 
 Content checking does not revalidate the historical business metrics or email/Sheets/CMS backend integrations.
+
+## Gallery framing follow-up
+
+Following the owner's screenshot feedback, project gallery images use consistent 4:3 frames. Photographs fill the frame without stretching; the growing-material preparation portrait is anchored at the top to retain the person and activity. Screenshots and service creatives show the complete image inside the frame, preserving their text. Source image files and captions are unchanged.
+
+Under **Portfolio → Projects → Project gallery**, **Image fit** selects **Fill frame (crop)** or **Show full image**. **Crop focus** selects the part of a photograph to keep visible. These controls apply to each gallery image independently.
+
+Verified the nine livelihood photos at desktop and 390 px mobile widths: every frame is 4:3, every image loads, and neither viewport has horizontal overflow. Visually inspected the corrected second row and assembly crop, and checked the software screenshot uses full-image mode. Build, type check, all 40 existing tests, and CMS YAML parsing passed.

@@ -70,7 +70,8 @@
         {
           "image": "/media/projects/saral-cash-point-creative.webp",
           "alt": "Historical Saral Pe and Saral Cash Point banking service creative",
-          "caption": "Original RIAOM archive creative associated with the banking rollout and Saral Pe network. Filename dated March 2020; printed fees, contacts and availability are historical."
+          "caption": "Original RIAOM archive creative associated with the banking rollout and Saral Pe network. Filename dated March 2020; printed fees, contacts and availability are historical.",
+          "fit": "contain"
         }
       ]
     },
@@ -131,7 +132,8 @@
         {
           "image": "/media/projects/saral-sewa-medtel-creative.webp",
           "alt": "Historical MedTel Healthcare and Saral Sewa telemedicine creative",
-          "caption": "Historical service communication, filename dated April 2020. The printed consultation count is a vendor claim, not a result of my pilots; contacts and hours are historical."
+          "caption": "Historical service communication, filename dated April 2020. The printed consultation count is a vendor claim, not a result of my pilots; contacts and hours are historical.",
+          "fit": "contain"
         }
       ]
     },
@@ -186,7 +188,8 @@
         {
           "image": "/media/projects/cultivation-material-preparation.webp",
           "alt": "Preparation of growing material on a mat",
-          "caption": "Preparation activity from the cultivation archive. Filename dated February 2020; participant and location are not identified."
+          "caption": "Preparation activity from the cultivation archive. Filename dated February 2020; participant and location are not identified.",
+          "position": "top"
         },
         {
           "image": "/media/projects/harvested-mushrooms.webp",
@@ -251,7 +254,8 @@
         {
           "image": "/media/projects/ankuram-leads-sync-redacted.png",
           "alt": "ANKURAM Leads Sync desktop interface and worker terminal, with operational record IDs redacted",
-          "caption": "Original software screenshot from the supplied project portfolio, dated 15 September 2026. Only record IDs are covered; all other original pixels are preserved. Selected SYNCED entries show a historical milestone, while the scan total describes workload rather than completed attribution."
+          "caption": "Original software screenshot from the supplied project portfolio, dated 15 September 2026. Only record IDs are covered; all other original pixels are preserved. Selected SYNCED entries show a historical milestone, while the scan total describes workload rather than completed attribution.",
+          "fit": "contain"
         }
       ]
     },
@@ -338,7 +342,8 @@
         {
           "image": "/media/projects/saral-cash-point-creative.webp",
           "alt": "Historical Saral Pe and Saral Cash Point banking service creative",
-          "caption": "Original RIAOM archive creative associated with the banking rollout and Saral Pe network. Filename dated March 2020; printed fees, contacts and availability are historical."
+          "caption": "Original RIAOM archive creative associated with the banking rollout and Saral Pe network. Filename dated March 2020; printed fees, contacts and availability are historical.",
+          "fit": "contain"
         }
       ],
       "role": "Projects Manager — direct end-to-end kiosk rollout",

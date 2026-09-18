@@ -105,6 +105,22 @@ collections:
                   - { name: image, label: Image, widget: image }
                   - { name: alt, label: Image description, widget: string }
                   - { name: caption, label: Caption, widget: string, required: false, default: "" }
+                  - name: fit
+                    label: Image fit
+                    widget: select
+                    required: false
+                    default: cover
+                    hint: "All gallery frames are 4:3. Fill the frame for photos; show the full image for screenshots or artwork with text."
+                    options:
+                      - { label: "Fill frame (crop)", value: cover }
+                      - { label: "Show full image", value: contain }
+                  - name: position
+                    label: Crop focus
+                    widget: select
+                    required: false
+                    default: center
+                    hint: "Choose the part of the photo to keep visible when filling the frame."
+                    options: [center, top, bottom, left, right]
               - {
                   name: role,
                   label: Role on this project,
@@ -210,4 +226,3 @@ collections:
         fields:
           - { name: acknowledgementSubject, label: Subject, widget: string }
           - { name: acknowledgementMessage, label: Plain text message, widget: text }
-
