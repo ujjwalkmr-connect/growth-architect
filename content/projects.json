@@ -6,19 +6,15 @@
       "title": "IVF Growth Engine",
       "org": "Ankuram IVF",
       "body": "End-to-end acquisition system — paid, SEO, CRM and counsellor routing — that became the operating model for the entire fertility vertical. Designed an integrated system mapping campaigns straight through CRM milestones down to clinical outcomes, allowing weekly data reviews based on actual treatments instead of simple lead volume clicks.",
-      "tags": [
-        "Healthcare",
-        "Paid + SEO",
-        "HubSpot"
-      ],
+      "tags": ["Healthcare", "Paid + SEO", "HubSpot"],
       "status": "published",
       "featured": true,
-      "details": "## Project overview\n\nEnd-to-end acquisition system — paid, SEO, CRM and counsellor routing — that became the operating model for the entire fertility vertical. Designed an integrated system mapping campaigns straight through CRM milestones down to clinical outcomes, allowing weekly data reviews based on actual treatments instead of simple lead volume clicks.",
+      "details": "## The project\n\nConnected paid acquisition with the follow-up, consultation and treatment journey across a five-centre, multi-brand healthcare remit. The broader responsibility included monthly marketing budgets above ₹10 lakh.\n\n## My contribution\n\n- Designed and scaled Meta and Google campaigns using intent targeting, negative-keyword frameworks, segmentation and creative testing.\n- Mapped the enquiry journey to CRM stages and coordinated marketing, telecalling and centre operations.\n- Reviewed acquisition cost alongside enquiry quality and progression.\n\n## Delivery approach\n\nAdvertisement → landing page → WhatsApp or call → telecalling follow-up → consultation → treatment. Stage definitions and operating ownership made the funnel useful for decisions beyond lead volume.\n\n## Results & project status\n\nMy resume reports 5.2× qualified lead volume, 65% lower blended CPL and 25% lower CPA over 12 months, alongside an 18-percentage-point lift in lead-to-consultation conversion and a 9-percentage-point lift in consultation-to-treatment conversion. These are reported programme outcomes; the underlying dated cohorts were not independently audited in the portfolio. Later CRM projects support this operating model and are not the sole cause of these results.\n\n*Project record: A01 · Career Project Portfolio, page 22 · Updated 18 September 2026.*",
       "cover": "",
       "coverAlt": "",
-      "role": "",
-      "period": "",
-      "outcome": "",
+      "role": "Growth strategy, acquisition and patient-enquiry funnel design",
+      "period": "Nov 2022–Sep 2026 portfolio record; project dates vary",
+      "outcome": "Reported 12-month results: 5.2× qualified leads, 65% lower blended CPL and 25% lower CPA.",
       "gallery": []
     },
     {
@@ -27,20 +23,15 @@
       "title": "Automation-First Marketing Org",
       "org": "Medica365 group",
       "body": "Replaced 20+ manual handoffs with n8n and Make workflows — lead routing, WhatsApp nurture, missed-call recovery, daily ops digests. Orchestrated 20+ active automated micro-workflows for real-time lead capture, automated reminders, assignment routing, and reactivation across n8n, Make, and Zapier stacks.",
-      "tags": [
-        "n8n",
-        "Make",
-        "WhatsApp",
-        "Ops"
-      ],
+      "tags": ["n8n", "Make", "WhatsApp", "Ops"],
       "status": "published",
       "featured": true,
-      "details": "## Project overview\n\nReplaced 20+ manual handoffs with n8n and Make workflows — lead routing, WhatsApp nurture, missed-call recovery, daily ops digests. Orchestrated 20+ active automated micro-workflows for real-time lead capture, automated reminders, assignment routing, and reactivation across n8n, Make, and Zapier stacks.",
+      "details": "## The project\n\nReduced manual handling between campaign response, CRM ownership and follow-up, with email, SMS and WhatsApp journeys supporting acquisition and reactivation.\n\n## My contribution\n\n- Built and coordinated lead capture, routing, alerts, reminders and reactivation workflows using n8n, Make and Zapier.\n- Configured audience segments and communication workflows across Mailchimp, Resend and MSG91.\n- Defined required fields, ownership and deployment checks; investigated failures across connected systems.\n\n## Delivery approach\n\nCapture enquiry → map fields → assign ownership → notify the team → follow up → record status → trigger the relevant reminder or reactivation. Communication tools were selected by workflow rather than treated as one identical stack everywhere.\n\n## Results & project status\n\nThe resume reports 20+ workflows in production, priority-cohort first response below five minutes and 30–40% lower lead leakage. The wider programme supported roughly twice the marketing volume without proportional headcount growth. That shared outcome also relates to content and team processes and should be counted once.\n\n*Project record: A02 · Career Project Portfolio, page 23 · Updated 18 September 2026.*",
       "cover": "",
       "coverAlt": "",
-      "role": "",
-      "period": "",
-      "outcome": "",
+      "role": "Workflow requirements, automation delivery and lifecycle communication",
+      "period": "Nov 2022–Sep 2026 portfolio record; project dates vary",
+      "outcome": "20+ production workflows reported; priority-cohort response reduced from 45–60 minutes to under five minutes.",
       "gallery": []
     },
     {
@@ -49,19 +40,15 @@
       "title": "AEO & AI-Search Alignment",
       "org": "Blossom Fertility",
       "body": "Content, schema and entity strategy that surfaces clinic answers inside ChatGPT, Perplexity and Google AI Overviews.",
-      "tags": [
-        "AEO",
-        "Schema",
-        "AI Search"
-      ],
+      "tags": ["AEO", "Schema", "AI Search"],
       "status": "published",
       "featured": true,
-      "details": "## Project overview\n\nContent, schema and entity strategy that surfaces clinic answers inside ChatGPT, Perplexity and Google AI Overviews.",
+      "details": "## The project\n\nAligned fertility content with local search intent, conversational questions and the information prospective patients need before seeking a consultation. The work combined technical, on-page and local SEO with answer-focused content.\n\n## My contribution\n\n- Led the IVF-specific SEO and AEO roadmap, keyword research and website audits.\n- Directed useful answers to fertility questions and content suitable for conventional and AI-assisted discovery.\n- Worked across content and clinical contributors to keep communication relevant and accurate.\n\n## Delivery approach\n\nIdentify patient search intent → review local and technical visibility → develop relevant pages and answers → publish and maintain content → review organic performance. Reported capabilities include Search Console, SEMrush and Ahrefs.\n\n## Results & project status\n\nThe resume reports 70–90% year-on-year growth in organic IVF-intent sessions and top-three positions for core high-intent fertility keywords in target geographies. These remain resume-reported measures without a supplied dated query set. AEO is presented as content alignment; no measured AI-answer citation or zero-click conversion result is claimed.\n\n*Project record: A05 · Career Project Portfolio, page 26 · Updated 18 September 2026.*",
       "cover": "",
       "coverAlt": "",
-      "role": "",
-      "period": "",
-      "outcome": "",
+      "role": "SEO/AEO strategy, patient-intent research and content direction",
+      "period": "Nov 2022–Sep 2026 portfolio record; project dates vary",
+      "outcome": "Reported 70–90% year-on-year growth in organic IVF-intent sessions; AI-answer visibility was not separately quantified.",
       "gallery": []
     },
     {
@@ -70,20 +57,22 @@
       "title": "Saral Pe FinTech Launch",
       "org": "Saral Pe",
       "body": "Go-to-market for a merchant fintech network — brand, performance and field activation across multiple cities.",
-      "tags": [
-        "FinTech",
-        "GTM",
-        "Field + digital"
-      ],
+      "tags": ["FinTech", "GTM", "Field + digital"],
       "status": "published",
       "featured": true,
-      "details": "## Project overview\n\nGo-to-market for a merchant fintech network — brand, performance and field activation across multiple cities.",
+      "details": "## The project\n\nLaunched and expanded the Saral Pe fintech distribution network in East India, connecting the service proposition to merchant acquisition, onboarding and continuing field support.\n\n## My contribution\n\n- Led regional launch and growth activity and coordinated the merchant lifecycle.\n- Aligned field requirements with product/vendor teams and supported merchant activation.\n- Personally managed 350+ kiosks from lead generation through training, activation and technical support within the wider network.\n\n## Delivery approach\n\nMerchant acquisition → onboarding → product and vendor coordination → activation support → ongoing relationship management. The historical Saral Cash Point creative documents the service and branding context.\n\n## Results & project status\n\nThe reported network reached 1,200+ retail banking merchants across five states. My directly established 350+ kiosks are a subset of that total, not an additional network. The record does not claim an independently audited current active-merchant count or transaction volume.\n\nThe original creative below is a historical portfolio sample; its printed fees, contact details and availability are not a current service offer.\n\n*Project record: R02 · Career Project Portfolio, page 9 · Updated 18 September 2026.*",
       "cover": "",
       "coverAlt": "",
-      "role": "",
-      "period": "",
-      "outcome": "",
-      "gallery": []
+      "role": "Launch coordination, merchant acquisition and vendor/product alignment",
+      "period": "Within Jun 2017–Jun 2021; exact project dates not recorded",
+      "outcome": "1,200+ merchants across five states, including the 350+ kiosks I directly established and supported.",
+      "gallery": [
+        {
+          "image": "/media/projects/saral-cash-point-creative.webp",
+          "alt": "Historical Saral Pe and Saral Cash Point banking service creative",
+          "caption": "Original RIAOM archive creative associated with the banking rollout and Saral Pe network. Filename dated March 2020; printed fees, contacts and availability are historical."
+        }
+      ]
     },
     {
       "id": "covid-19-emergency-response",
@@ -91,20 +80,37 @@
       "title": "COVID-19 Emergency Response",
       "org": "RIAOM Services",
       "body": "District-scale logistics, awareness and community mobilization during the pandemic across Jharkhand.",
-      "tags": [
-        "Public health",
-        "Ops",
-        "Comms"
-      ],
+      "tags": ["Public health", "Ops", "Comms"],
       "status": "published",
       "featured": true,
-      "details": "## Project overview\n\nDistrict-scale logistics, awareness and community mobilization during the pandemic across Jharkhand.",
+      "details": "## The project\n\nCombined local protective-supply production with delivery of medicines and essentials for Ranchi residents during pandemic restrictions, working with district administration and retail/pharmaceutical partners.\n\n## My contribution\n\n- Coordinated manufacturing mobilisation, field operations and the local distribution network.\n- Connected production capacity with dispatch needs and partner availability.\n- Managed operational communication, logistics and reporting with administrative stakeholders.\n\n## Delivery approach\n\nIdentify supply and delivery needs → mobilise production and retail partners → coordinate field workforce → dispatch essentials → manage reporting. The supplied photographs show fabric cutting, sewing and face-shield assembly from the emergency-production archive.\n\n## Results & project status\n\nThe resume reports a fleet of more than 100 people and a same-day delivery network. Same-day delivery describes the operating model, not a measured success rate for every order. The photographs document production activity; they do not establish output volumes, product certification or protective performance.\n\n*Project record: R05 · Career Project Portfolio, page 15 · Updated 18 September 2026.*",
       "cover": "",
       "coverAlt": "",
-      "role": "",
-      "period": "",
-      "outcome": "",
-      "gallery": []
+      "role": "Emergency production mobilisation, field logistics and administration coordination",
+      "period": "COVID response period within 2020–Jun 2021",
+      "outcome": "Coordinated a reported 100+ person fleet and a same-day essentials delivery service model.",
+      "gallery": [
+        {
+          "image": "/media/projects/emergency-fabric-cutting.webp",
+          "alt": "Fabric measurement and cutting in a sewing workspace",
+          "caption": "Fabric cutting associated with the COVID-era production archive. Filename dated March 2020; no output volume or product certification is inferred."
+        },
+        {
+          "image": "/media/projects/emergency-sewing-workspace.webp",
+          "alt": "Sewing workstations in a production room",
+          "caption": "Sewing workspace in the emergency-production archive. Filename dated March 2020."
+        },
+        {
+          "image": "/media/projects/face-shield-assembly.webp",
+          "alt": "Assembly of transparent face shields",
+          "caption": "Face-shield assembly in the emergency-production archive. Filename dated April 2020; the photograph documents activity, not protective effectiveness or certification."
+        },
+        {
+          "image": "/media/projects/face-shield-components.webp",
+          "alt": "Rows of face-shield components arranged on the floor",
+          "caption": "Face-shield components from the emergency-production archive. Filename dated April 2020; no distributed-unit total is claimed."
+        }
+      ]
     },
     {
       "id": "rural-telemedicine-pilots",
@@ -112,20 +118,22 @@
       "title": "Rural Telemedicine Pilots",
       "org": "Jharkhand state program",
       "body": "Connected rural primary-care patients to specialists via telemedicine — protocols, training and adoption tracking.",
-      "tags": [
-        "Telemedicine",
-        "Rural",
-        "Pilots"
-      ],
+      "tags": ["Telemedicine", "Rural", "Pilots"],
       "status": "published",
       "featured": true,
-      "details": "## Project overview\n\nConnected rural primary-care patients to specialists via telemedicine — protocols, training and adoption tracking.",
+      "details": "## The project\n\nExplored access to remote diagnosis and consultation through technology-enabled services in Jharkhand, connecting a healthcare technology partner with local delivery requirements.\n\n## My contribution\n\n- Led deployment coordination for the telemedicine grid and the pilots described in my resume.\n- Worked with MedTel Healthcare and district administrations on local implementation.\n- Connected service communication and field readiness to remote-consultation access.\n\n## Delivery approach\n\nPartner and administration coordination → local pilot deployment → service communication → remote consultation access → review of deployment experience. My role concerned programme implementation, not clinical decision-making.\n\n## Results & project status\n\nThe documented pilot locations are Latehar, Nagri and Ranchi. The record supports deployment leadership but does not provide patient volumes or clinical outcomes. The historical MedTel/Saral Sewa creative below illustrates the access proposition. Its printed “100000+ consultations” statement is vendor creative copy and is not attributed to my pilots; contacts and service hours are historical.\n\n*Project record: R06 · Career Project Portfolio, page 17 · Updated 18 September 2026.*",
       "cover": "",
       "coverAlt": "",
-      "role": "",
-      "period": "",
-      "outcome": "",
-      "gallery": []
+      "role": "Telemedicine deployment coordination and public-sector stakeholder management",
+      "period": "Within Jun 2017–Jun 2021; exact project dates not recorded",
+      "outcome": "Deployment leadership for pilots in Latehar, Nagri and Ranchi with MedTel Healthcare and district administrations.",
+      "gallery": [
+        {
+          "image": "/media/projects/saral-sewa-medtel-creative.webp",
+          "alt": "Historical MedTel Healthcare and Saral Sewa telemedicine creative",
+          "caption": "Historical service communication, filename dated April 2020. The printed consultation count is a vendor claim, not a result of my pilots; contacts and hours are historical."
+        }
+      ]
     },
     {
       "id": "prison-inmate-rehabilitation-micro-manufacturing-program",
@@ -133,19 +141,15 @@
       "org": "Government of Jharkhand",
       "icon": "Landmark",
       "body": "Led an inmate rehabilitation initiative establishing micro-manufacturing units across 3 central jails. Introduced a “Learn and Earn” model spanning FMCG, agriculture and food processing to support economic independence.",
-      "tags": [
-        "Rehabilitation",
-        "Manufacturing",
-        "Programme operations"
-      ],
+      "tags": ["Rehabilitation", "Manufacturing", "Programme operations"],
       "status": "published",
       "featured": true,
-      "details": "## Project overview\n\nLed an inmate rehabilitation initiative establishing micro-manufacturing units across 3 central jails. Introduced a “Learn and Earn” model spanning FMCG, agriculture and food processing to support economic independence.",
+      "details": "## The project\n\nSupported productive learning and earning opportunities within Jharkhand central jails through a Learn and Earn model spanning FMCG, agriculture and food processing.\n\n## My contribution\n\n- Led project coordination and supported the establishment of livelihood and micro-manufacturing activities.\n- Coordinated with the Government of Jharkhand, Home and Prisons Department and district administration.\n- Managed logistics, field operations and compliance reporting within institutional requirements.\n\n## Delivery approach\n\nInstitutional coordination → activity selection and unit setup → training and production support → logistics and administrative reporting.\n\n## Results & project status\n\nThe resume reports work across three central jails. Economic independence and reduced recidivism were programme ambitions, not measured outcomes in the supplied record. Archive photographs do not have verified prison locations, so no photographed person is identified as an inmate and unrelated field photographs are not presented as prison evidence.\n\n*Project record: R04 · Career Project Portfolio, page 14 · Updated 18 September 2026.*",
       "cover": "",
       "coverAlt": "",
-      "role": "",
-      "period": "",
-      "outcome": "",
+      "role": "Programme leadership, institutional coordination and livelihood-unit setup",
+      "period": "Within Jun 2017–Jun 2021; includes COVID-era work",
+      "outcome": "Reported delivery footprint: micro-manufacturing and livelihood activity across three central jails.",
       "gallery": []
     },
     {
@@ -154,20 +158,62 @@
       "org": "JSLPS · Government of Jharkhand",
       "icon": "Heart",
       "body": "Mobilised 15 Self-Help Groups across 150+ households to establish sustainable micro-manufacturing units and develop market linkages through a rural livelihood initiative with JSLPS.",
-      "tags": [
-        "JSLPS",
-        "Self-Help Groups",
-        "Market linkages"
-      ],
+      "tags": ["JSLPS", "Self-Help Groups", "Market linkages"],
       "status": "published",
       "featured": true,
-      "details": "## Project overview\n\nMobilised 15 Self-Help Groups across 150+ households to establish sustainable micro-manufacturing units and develop market linkages through a rural livelihood initiative with JSLPS.",
+      "details": "## The project\n\nWorked with JSLPS and rural self-help groups to develop practical livelihood activities, including cultivation and small-scale production supported by training and market connections.\n\n## My contribution\n\n- Mobilised groups and coordinated entrepreneurship training and production setup.\n- Supported low-infrastructure manufacturing and cultivation activities.\n- Developed market linkages and provided field support to participating communities.\n\n## Delivery approach\n\nGroup mobilisation → livelihood activity selection → training and production setup → field support → market linkage. The gallery documents cultivation, harvested mushrooms, small press equipment and lamp-component assembly from the supplied RIAOM archive.\n\n## Results & project status\n\nThe resume reports 15 self-help groups across more than 150 households. These figures describe programme reach; household income uplift and sustained profitability were not quantified. Captions describe visible activity without assigning unconfirmed village names, group identities or prison locations.\n\n*Project record: R03 · Career Project Portfolio, page 11 · Updated 18 September 2026.*",
       "cover": "",
       "coverAlt": "",
-      "role": "",
-      "period": "",
-      "outcome": "",
-      "gallery": []
+      "role": "Self-help-group mobilisation, entrepreneurship training and market linkage",
+      "period": "Within Jun 2017–Jun 2021; exact project dates not recorded",
+      "outcome": "Reported programme reach: 15 self-help groups and 150+ households.",
+      "gallery": [
+        {
+          "image": "/media/projects/cultivation-field-discussion.webp",
+          "alt": "Group discussion beside hanging cultivation bags",
+          "caption": "Cultivation training and field discussion from the RIAOM entrepreneurship archive. Filename dated February 2020; village and group identities are not assigned."
+        },
+        {
+          "image": "/media/projects/mushroom-harvest-group.webp",
+          "alt": "Group displaying harvested mushrooms",
+          "caption": "Harvested mushrooms from the livelihood archive. Filename dated March 2020; the image documents output rather than sales or income."
+        },
+        {
+          "image": "/media/projects/mushroom-cultivation-room.webp",
+          "alt": "Rows of hanging mushroom cultivation bags",
+          "caption": "Cultivation setup showing production bags and support frames. RIAOM archive, filename dated January 2020."
+        },
+        {
+          "image": "/media/projects/cultivation-material-preparation.webp",
+          "alt": "Preparation of growing material on a mat",
+          "caption": "Preparation activity from the cultivation archive. Filename dated February 2020; participant and location are not identified."
+        },
+        {
+          "image": "/media/projects/harvested-mushrooms.webp",
+          "alt": "Close view of harvested mushrooms",
+          "caption": "Visible produce from the cultivation programme archive. Filename dated March 2020; no production quantity is inferred."
+        },
+        {
+          "image": "/media/projects/lamp-component-assembly.webp",
+          "alt": "Bench assembly of lamp components using a manual fixture",
+          "caption": "Lamp-component assembly from the micro-enterprise archive. Filename dated June 2020; no prison or named group is assigned to the photograph."
+        },
+        {
+          "image": "/media/projects/assembled-lamp-units.webp",
+          "alt": "A collection of assembled lamp units",
+          "caption": "Assembled lamp units in the entrepreneurship archive. Filename dated June 2020; sales volume is not established by the image."
+        },
+        {
+          "image": "/media/projects/small-press-equipment.webp",
+          "alt": "Small press equipment in a workshop",
+          "caption": "Micro-manufacturing equipment from the RIAOM archive. Filename dated May 2020; site and production capacity are not established."
+        },
+        {
+          "image": "/media/projects/plate-product-samples.webp",
+          "alt": "Several moulded plate product samples",
+          "caption": "Product samples from the micro-manufacturing archive. Filename dated May 2020; material specifications and sales are not inferred."
+        }
+      ]
     },
     {
       "id": "fieldops-healthcare-field-operations-platform",
@@ -175,20 +221,15 @@
       "org": "Ankuram IVF",
       "icon": "Cpu",
       "body": "Led product requirements and iterative AI-assisted delivery of web and Android workflows for doctor onboarding, visits, referrals, camps and management dashboards. Defined access and contact-visibility requirements, reviewed UI/UX, supported deployment troubleshooting, and developed bilingual guides and handover material.",
-      "tags": [
-        "TypeScript",
-        "Supabase",
-        "Android",
-        "Product operations"
-      ],
+      "tags": ["TypeScript", "Supabase", "Android", "Product operations"],
       "status": "published",
       "featured": true,
-      "details": "## Project overview\n\nLed product requirements and iterative AI-assisted delivery of web and Android workflows for doctor onboarding, visits, referrals, camps and management dashboards. Defined access and contact-visibility requirements, reviewed UI/UX, supported deployment troubleshooting, and developed bilingual guides and handover material.",
+      "details": "## The project\n\nBrought doctor relationships, field visits, camps, referrals and management reporting into structured web and Android workflows for healthcare marketing teams.\n\n## My contribution\n\n- Defined executive, manager and administrator workflows, branch access and contact-visibility boundaries.\n- Reviewed doctor/executive records, workday activity, camps, source filters, both-partner fields and offline synchronisation.\n- Directed iterative AI-assisted implementation and UI review, ran build/installation checks and coordinated release acceptance.\n- Prepared role-specific handover and English/Hindi training material.\n\n## Delivery approach\n\nSign in with the permitted role → plan and record field activity → manage doctor, camp and referral records → synchronise when connected → review team or branch information. Supabase and role-based access support the permission model; administrative sync review requires separate authority.\n\n## Results & project status\n\nThe dossier records progression from an August debug APK to v8 web and signed Android release acceptance on 3 September, followed by installation confirmation and controlled staff distribution. These are dated release records, not a fresh production audit. Adoption and productivity uplift were not quantified, and final delivery of every bilingual guide remained unconfirmed. My contribution was product direction, hands-on validation and AI-assisted delivery, rather than sole manual authorship of all code.\n\n*Project record: A08 · Career Project Portfolio, page 30 · Updated 18 September 2026.*",
       "cover": "",
       "coverAlt": "",
-      "role": "",
-      "period": "",
-      "outcome": "",
+      "role": "Product ownership, workflow design, AI-assisted delivery and release validation",
+      "period": "Aug–Sep 2026 documented delivery milestones",
+      "outcome": "FieldOps v8 web and signed Android release acceptance and installation recorded on 3 September 2026.",
       "gallery": []
     },
     {
@@ -197,21 +238,22 @@
       "org": "Ankuram IVF",
       "icon": "Workflow",
       "body": "Investigated Meta-to-Google Sheets-to-Bitrix24 sync failures, field-mapping constraints and missing records. Designed reconciliation checks and reporting requirements to improve data traceability and campaign-to-CRM visibility.",
-      "tags": [
-        "Meta",
-        "Google Sheets",
-        "Bitrix24",
-        "Apps Script"
-      ],
+      "tags": ["Meta", "Google Sheets", "Bitrix24", "Apps Script"],
       "status": "published",
       "featured": true,
-      "details": "## Project overview\n\nInvestigated Meta-to-Google Sheets-to-Bitrix24 sync failures, field-mapping constraints and missing records. Designed reconciliation checks and reporting requirements to improve data traceability and campaign-to-CRM visibility.",
+      "details": "## The project\n\nConnected Meta enquiries, Google Sheets and Bitrix24 records while accounting for delayed imports and legitimate repeat enquiries. The work covered a desktop synchronisation loop and a separate historical relationship audit.\n\n## My contribution\n\n- Defined conservative matching rules and preserved each distinct Meta Lead ID instead of merging repeat enquiries solely by phone number.\n- Clarified real import behaviour, supplied operating records, ran checks and directed AI-assisted implementation.\n- Kept one owner for new Master rows and reviewed permitted CRM attribution updates and readback.\n- Separated qualified leads, appointments, attended consultations and treatment events for reporting.\n\n## Delivery approach\n\nMeta source sheet → Apps Script Master record → Windows Python worker → conservative CRM matching → permitted blank-field enrichment → readback → current-status updates in Master and source sheets. The stack uses Apps Script, Python, Google Sheets, Bitrix24 APIs and SQLite.\n\n## Results & project status\n\nThe project record documents selected successful writes/readback, correction of stale statuses and Desktop v0.3 live operation evidence in September. The separate historical audit processed 28,122 approved leads with zero reported API errors. Processing scope is not a claim of complete matching or delivered conversions. Historical completeness, sustained latency, restart recovery, Oracle migration and Meta CAPI receipt remained separate acceptance items. The supplied software screenshot records a historical worker milestone, not a current service-health check.\n\n*Project record: A07 · Career Project Portfolio, page 28 · Updated 18 September 2026.*",
       "cover": "",
       "coverAlt": "",
-      "role": "",
-      "period": "",
-      "outcome": "",
-      "gallery": []
+      "role": "Business rules, reconciliation design, AI-assisted implementation and operational validation",
+      "period": "Sep 2026; portfolio evidence through 18 September",
+      "outcome": "Selected live CRM write/readback and status-sync milestones; separate historical audit of 28,122 approved leads.",
+      "gallery": [
+        {
+          "image": "/media/projects/ankuram-leads-sync-redacted.png",
+          "alt": "ANKURAM Leads Sync desktop interface and worker terminal, with operational record IDs redacted",
+          "caption": "Original software screenshot from the supplied project portfolio, dated 15 September 2026. Only record IDs are covered; all other original pixels are preserved. Selected SYNCED entries show a historical milestone, while the scan total describes workload rather than completed attribution."
+        }
+      ]
     },
     {
       "id": "telecalling-performance-management-reporting",
@@ -219,19 +261,15 @@
       "org": "Ankuram IVF · Blossom · Medica365",
       "icon": "Building2",
       "body": "Designed caller scorecards, month-on-month comparisons and consultation/conversion reporting, translating management requirements into individual performance reviews and targeted improvement actions.",
-      "tags": [
-        "Telecalling",
-        "Scorecards",
-        "Management reporting"
-      ],
+      "tags": ["Telecalling", "Scorecards", "Management reporting"],
       "status": "published",
       "featured": true,
-      "details": "## Project overview\n\nDesigned caller scorecards, month-on-month comparisons and consultation/conversion reporting, translating management requirements into individual performance reviews and targeted improvement actions.",
+      "details": "## The project\n\nConnected incoming enquiries with the centre and agent responsible for follow-up, translating calling activity and consultation progression into useful management information.\n\n## My contribution\n\n- Deployed centre-wise and agent-wise assignment logic integrated with Tata Smartflo.\n- Designed caller scorecards, monthly comparisons and consultation/conversion reporting.\n- Used reviews to identify coaching needs and targeted operating improvements.\n\n## Delivery approach\n\nEnquiry received → centre/agent allocation → call attempt → disposition and follow-up → consultation progression → scorecard review → improvement action. Response time, contactability and conversion are treated as different measures.\n\n## Results & project status\n\nThe resume reports a 20% improvement in contact rate and measurable SLA accountability. The source does not specify whether this is a relative percentage or percentage-point change, so it is preserved as reported. Agent-level records and personal contact details are not published.\n\n*Project record: A03 · Career Project Portfolio, page 24 · Updated 18 September 2026.*",
       "cover": "",
       "coverAlt": "",
-      "role": "",
-      "period": "",
-      "outcome": "",
+      "role": "Lead-ownership design, telephony coordination, scorecards and performance review",
+      "period": "Nov 2022–Sep 2026 portfolio record; project dates vary",
+      "outcome": "Reported 20% contact-rate improvement; caller scorecards and centre/agent accountability.",
       "gallery": []
     },
     {
@@ -240,22 +278,243 @@
       "org": "Ankuram IVF · Blossom · Medica365",
       "icon": "Search",
       "body": "Structured weekly content pillars and calendars across Instagram, Facebook, YouTube and LinkedIn, including doctor-led education, case narratives, camp communications and creative briefs. Coordinated publishing workflows through Meta Business Suite, Buffer and Hootsuite.",
-      "tags": [
-        "Content operations",
-        "Meta Business Suite",
-        "Buffer",
-        "Hootsuite"
-      ],
+      "tags": ["Content operations", "Meta Business Suite", "Buffer", "Hootsuite"],
       "status": "published",
       "featured": true,
-      "details": "## Project overview\n\nStructured weekly content pillars and calendars across Instagram, Facebook, YouTube and LinkedIn, including doctor-led education, case narratives, camp communications and creative briefs. Coordinated publishing workflows through Meta Business Suite, Buffer and Hootsuite.",
+      "details": "## The project\n\nOrganised educational and campaign content for Instagram, Facebook, YouTube and LinkedIn around different patient concerns and stages of decision-making.\n\n## My contribution\n\n- Defined weekly content pillars, calendars, scripts and creative briefs.\n- Coordinated designers, video editors, telecallers and external agencies.\n- Directed distinct audience narratives, including male-factor infertility, miscarriage and PCOS-related pregnancy planning.\n- Managed publishing priorities and platform adaptations using tools including Meta Business Suite, Buffer and Hootsuite.\n\n## Delivery approach\n\nAudience concern → doctor or clinical input → script and creative brief → production review → platform adaptation → publishing → performance review.\n\n## Results & project status\n\nThe delivered contribution is structured content operations and creative direction. The resume associates the wider automation, QA and team-process programme with roughly twice the marketing volume without proportional headcount growth; this is a shared result, not a separate uplift for every content platform. A 20 September 2026 camp campaign was still in preparation at the source cutoff.\n\n*Project record: A06 · Career Project Portfolio, page 27 · Updated 18 September 2026.*",
       "cover": "",
       "coverAlt": "",
-      "role": "",
-      "period": "",
-      "outcome": "",
+      "role": "Creative strategy, team coordination and multi-platform publishing",
+      "period": "Nov 2022–Sep 2026 portfolio record; project dates vary",
+      "outcome": "Structured content calendars, audience-specific briefs and doctor-led campaign communication.",
       "gallery": []
+    },
+    {
+      "id": "real-estate-digital-campaign-delivery",
+      "title": "Real Estate Digital Campaign Delivery",
+      "org": "Superwave Media Pvt. Ltd.",
+      "icon": "Building2",
+      "tags": ["Real estate", "Campaign delivery", "Agency"],
+      "body": "Delivered social and search campaigns for Homeline Builders as an agency client, connecting property messaging with enquiry generation and ongoing performance review.",
+      "status": "published",
+      "featured": false,
+      "cover": "",
+      "coverAlt": "",
+      "gallery": [],
+      "role": "Projects Executive — campaign execution and client coordination",
+      "period": "Jun 2016–May 2017",
+      "outcome": "Campaign and creative delivery supporting property visibility and enquiry quality.",
+      "details": "## The project\n\nSupported residential property launches and ongoing inventory for Homeline Builders during my Superwave agency role. This engagement preceded my later direct employment at Homeline.\n\n## My contribution\n\n- Executed integrated marketing activity across social, search and traditional channels.\n- Monitored campaign performance and adjusted messaging, offers and media choices.\n- Contributed brand assets and materials that supported the property enquiry journey.\n\n## Delivery approach\n\nClient property brief → message and creative assets → channel distribution → enquiry generation → performance review → campaign adjustments.\n\n## Results & project status\n\nThe resume describes improved online presence and lead flow, with support for higher-quality property enquiries. No dated enquiry count, cost-per-lead baseline or booking attribution was supplied, so the contribution is presented qualitatively. RIAOM photographs are not used as evidence of this agency work.\n\n*Project record: S01 · Career Project Portfolio, page 6 · Updated 18 September 2026.*"
+    },
+    {
+      "id": "integrated-property-communication-brand-assets",
+      "title": "Integrated Property Communication & Brand Assets",
+      "org": "Superwave Media Pvt. Ltd.",
+      "icon": "Building2",
+      "tags": ["Brand communication", "Creative coordination", "Real estate"],
+      "body": "Coordinated consistent property communication and marketing assets across digital and traditional channels for an agency real-estate client.",
+      "status": "published",
+      "featured": false,
+      "cover": "",
+      "coverAlt": "",
+      "gallery": [],
+      "role": "Projects Executive — marketing materials and brand communication",
+      "period": "Jun 2016–May 2017",
+      "outcome": "Integrated communication and brand assets supporting property marketing.",
+      "details": "## The project\n\nMaintained consistent communication for Homeline Builders across the channels through which prospective buyers encountered the brand. This was a related workstream within the same agency engagement as the digital campaign project.\n\n## My contribution\n\n- Contributed to marketing materials and brand assets.\n- Adapted communication for digital and traditional channels.\n- Connected creative consistency with the commercial aim of generating relevant property enquiries.\n\n## Delivery approach\n\nProperty positioning → message and asset development → channel adaptation → distribution → review of enquiry response.\n\n## Results & project status\n\nThe supported output is integrated marketing communication and creative delivery. Individual brochure samples, media placements and dated campaign results were not included in the supplied record. Outcomes overlap with the agency campaign work and are not counted as separate commercial contracts.\n\n*Project record: S02 · Career Project Portfolio, page 7 · Updated 18 September 2026.*"
+    },
+    {
+      "id": "retail-banking-kiosk-rollout",
+      "title": "Retail Banking Kiosk Rollout & Financial Inclusion",
+      "org": "RIAOM Services Pvt. Ltd.",
+      "icon": "Landmark",
+      "tags": ["Financial inclusion", "Field operations", "Partner onboarding"],
+      "body": "Personally established and supported 350+ banking kiosks across Jharkhand, covering lead generation, site selection, onboarding, training, activation and ongoing support.",
+      "status": "published",
+      "featured": false,
+      "cover": "",
+      "coverAlt": "",
+      "gallery": [
+        {
+          "image": "/media/projects/saral-cash-point-creative.webp",
+          "alt": "Historical Saral Pe and Saral Cash Point banking service creative",
+          "caption": "Original RIAOM archive creative associated with the banking rollout and Saral Pe network. Filename dated March 2020; printed fees, contacts and availability are historical."
+        }
+      ],
+      "role": "Projects Manager — direct end-to-end kiosk rollout",
+      "period": "Within Jun 2017–Jun 2021; exact project dates not recorded",
+      "outcome": "350+ directly established kiosks within the wider 1,200+ Saral Pe merchant network.",
+      "details": "## The project\n\nExpanded access to retail banking through local kiosks in Jharkhand. My responsibility covered the complete operating journey from identifying partners to supporting sites after activation.\n\n## My contribution\n\n- Personally managed lead generation, field sales and site selection.\n- Coordinated partner onboarding, agent training and certification.\n- Supported activation and post-go-live technical issues.\n\n## Delivery approach\n\nProspect identification → site review → onboarding → training and certification → service activation → technical support. The accompanying Saral Cash Point creative provides historical service context, rather than proof of each individual installation.\n\n## Results & project status\n\nI directly established more than 350 kiosks, as clarified in the portfolio record. These are included within the wider 1,200+ merchant network and must not be added to it. The count describes historical rollout responsibility, not a verified current active-site total. The historical creative contains service details that may no longer apply.\n\n*Project record: R01 · Career Project Portfolio, page 8 · Updated 18 September 2026.*"
+    },
+    {
+      "id": "residential-property-acquisition-campaigns",
+      "title": "Residential Property Acquisition Campaigns",
+      "org": "Homeline Builders",
+      "icon": "Building2",
+      "tags": ["Meta Ads", "Google Ads", "Lead quality"],
+      "body": "Managed digital-first campaigns for residential launches and active inventory, refining targeting and creative around enquiry quality and qualified site visits.",
+      "status": "published",
+      "featured": false,
+      "cover": "",
+      "coverAlt": "",
+      "gallery": [],
+      "role": "Marketing Manager — paid acquisition and campaign optimisation",
+      "period": "Jul 2021–Oct 2022",
+      "outcome": "Improved property visibility, enquiries and site-visit support; outcomes reported qualitatively.",
+      "details": "## The project\n\nOwned marketing for Homeline Builders as an employee, distinct from my earlier agency relationship. Campaigns supported residential launches and ongoing inventory with a focus on relevant enquiries and site visits.\n\n## My contribution\n\n- Managed Meta and Google campaigns from brief through review.\n- Tested targeting and creative and adjusted activity using lead-quality signals.\n- Worked with leadership and sales stakeholders on property visibility and communication priorities.\n\n## Delivery approach\n\nInventory or launch brief → targeting and creative → paid campaigns → enquiries and site-visit pipeline → performance review → adjustment.\n\n## Results & project status\n\nThe resume describes increased visibility, enquiries and site visits, alongside improving campaign efficiency. It does not provide numeric site-visit uplift, booking totals or revenue attribution. These results remain qualitative and are not combined with later healthcare conversion metrics.\n\n*Project record: H01 · Career Project Portfolio, page 19 · Updated 18 September 2026.*"
+    },
+    {
+      "id": "property-pipeline-budget-allocation",
+      "title": "Property Pipeline Reviews & Budget Allocation",
+      "org": "Homeline Builders",
+      "icon": "Workflow",
+      "tags": ["Funnel analysis", "Budget allocation", "Sales alignment"],
+      "body": "Connected campaign and CRM sales information to lead-quality reviews and budget allocation across property micro-markets.",
+      "status": "published",
+      "featured": false,
+      "cover": "",
+      "coverAlt": "",
+      "gallery": [],
+      "role": "Marketing Manager — pipeline interpretation and spend prioritisation",
+      "period": "Jul 2021–Oct 2022",
+      "outcome": "Established data-led reviews connecting media decisions with enquiry quality and sales progression.",
+      "details": "## The project\n\nMade campaign-spend decisions more responsive to the quality of enquiries and the sales pipeline. This workstream supported the same property acquisition programme rather than a separate software implementation.\n\n## My contribution\n\n- Established reviews using campaign and CRM sales metrics.\n- Compared lead-quality signals across micro-markets.\n- Reallocated spend and aligned marketing priorities with the sales context.\n\n## Delivery approach\n\nCampaign and CRM information → quality review by micro-market → spend prioritisation → revised campaign activity → subsequent review.\n\n## Results & project status\n\nThe documented output is a management review process supporting continuous pipeline improvement. A numeric conversion uplift, specific CRM vendor and historical dashboard samples were not supplied.\n\n*Project record: H02 · Career Project Portfolio, page 20 · Updated 18 September 2026.*"
+    },
+    {
+      "id": "property-launches-brand-communication",
+      "title": "Property Launches & Brand Communication",
+      "org": "Homeline Builders",
+      "icon": "Building2",
+      "tags": ["Integrated marketing", "Property launches", "Collateral"],
+      "body": "Coordinated digital campaigns, brochures, events and on-ground collateral to keep property launches and active inventory consistently positioned.",
+      "status": "published",
+      "featured": false,
+      "cover": "",
+      "coverAlt": "",
+      "gallery": [],
+      "role": "Marketing Manager — integrated communication and leadership coordination",
+      "period": "Jul 2021–Oct 2022",
+      "outcome": "Consistent communication across digital and physical touchpoints for multiple active properties.",
+      "details": "## The project\n\nConnected campaign messaging with the material used throughout the property sales experience, supporting launches and ongoing inventory.\n\n## My contribution\n\n- Coordinated integrated digital and on-ground initiatives.\n- Worked with leadership on brochures, events, digital assets and other collateral.\n- Maintained consistent positioning across customer touchpoints and sales-support materials.\n\n## Delivery approach\n\nProperty communication priorities → campaign and collateral assets → digital/on-ground coordination → sales support → refinement.\n\n## Results & project status\n\nThe resume describes consistent brand communication and support for booking conversions across multiple projects. No event-level conversion rate, attributable booking uplift or cost saving is documented. This work shares the wider property-marketing programme outcomes.\n\n*Project record: H03 · Career Project Portfolio, page 21 · Updated 18 September 2026.*"
+    },
+    {
+      "id": "marketing-measurement-management-dashboards",
+      "title": "Marketing Measurement & Management Dashboards",
+      "org": "ANKURAM IVF · Blossom · Medica365",
+      "icon": "Workflow",
+      "tags": ["GA4", "GTM", "Funnel reporting", "Analytics"],
+      "body": "Connected event tracking, CRM information and operational reporting to centre-wise, doctor-wise and campaign-wise management decisions.",
+      "status": "published",
+      "featured": false,
+      "cover": "",
+      "coverAlt": "",
+      "gallery": [],
+      "role": "Measurement design, cross-functional dashboards and cohort analysis",
+      "period": "Nov 2022–Sep 2026 portfolio record; project dates vary",
+      "outcome": "Standardised management views and cohort-led budget reviews across the healthcare funnel.",
+      "details": "## The project\n\nCreated a shared reporting view across marketing, telecalling and clinical progression so that campaign decisions could reflect operational outcomes.\n\n## My contribution\n\n- Implemented GA4/GTM event tracking, custom conversions and call/OPD attribution as described in my resume.\n- Standardised dashboards for centre, doctor and campaign reviews.\n- Used cohort analysis to support budget and operating decisions.\n\n## Delivery approach\n\nChannel/event data → CRM and operational context → defined cohorts and dashboard views → business review → budget or process action. Snapshot statuses, stage transitions and revenue attribution answer different questions and need distinct definitions.\n\n## Results & project status\n\nThe resume reports monthly management use and a 20–30% improvement in estimated ROAS. The underlying revenue source and calculation were not supplied. Because the later CRM export lacked deal-income data, that estimate requires a separate revenue source before being treated as verified. The supported delivery claim is tracking and management-reporting implementation.\n\n*Project record: A04 · Career Project Portfolio, page 25 · Updated 18 September 2026.*"
+    },
+    {
+      "id": "ankuram-website-content-governance",
+      "title": "ANKURAM Website Redevelopment & Content Governance",
+      "org": "ANKURAM IVF",
+      "icon": "Cpu",
+      "tags": ["WordPress", "Quality assurance", "Content governance"],
+      "body": "Directed a controlled WordPress redevelopment with responsive and interaction checks, protected content, rollback evidence and a separate content-approval process.",
+      "status": "published",
+      "featured": false,
+      "cover": "",
+      "coverAlt": "",
+      "gallery": [],
+      "role": "Website delivery direction, acceptance review and content decisions",
+      "period": "Sep 2026 documented milestones",
+      "outcome": "Local acceptance closed on 12 September: 30/30 design settings matched and seven diagnostics passed.",
+      "details": "## The project\n\nBuilt a consistent website foundation with usable navigation, controlled content and a traceable path from local development to approval.\n\n## My contribution\n\n- Directed local WordPress implementation and bounded review scope.\n- Reviewed routes, calls to action, responsive behaviour, keyboard navigation and design-system settings.\n- Resolved doctor designations, centre associations and public terminology during content reconciliation.\n- Preserved baseline content and rollback evidence.\n\n## Delivery approach\n\nApproved scope → protected baseline → local implementation → responsive and interaction review → rollback verification → local acceptance → separate content approval before publication.\n\n## Results & project status\n\nThe dossier records local Gate C closure on 12 September, 30 of 30 design-system settings matching and seven diagnostic passes. Later content preparation included 91/91 reconciliation records, with final owner approval pending. These are local acceptance and content-governance milestones; a public launch, live CRM delivery and traffic uplift were not established by that record.\n\n*Project record: A09 · Career Project Portfolio, page 31 · Updated 18 September 2026.*"
+    },
+    {
+      "id": "ankuram-os-revenue-operations",
+      "title": "ANKURAM OS — Revenue Operations Architecture",
+      "org": "ANKURAM IVF",
+      "icon": "Workflow",
+      "tags": ["RevOps", "Branch access", "Attribution", "System design"],
+      "body": "Defined a four-branch operating model for leads, routing, appointments, communications and management reporting, with clear clinical and accounting system boundaries.",
+      "status": "published",
+      "featured": false,
+      "cover": "",
+      "coverAlt": "",
+      "gallery": [],
+      "role": "Operating-model design, requirements and phased implementation direction",
+      "period": "Aug–Sep 2026 design and preview work",
+      "outcome": "Approved architecture and partial implementation; rollout acceptance remained open.",
+      "details": "## The project\n\nDesigned revenue operations across four IVF locations, keeping branch responsibilities clear while giving management a consolidated view of acquisition and follow-up.\n\n## My contribution\n\n- Specified branch separation, source/campaign-based routing and dedicated-team ownership.\n- Defined multi-touch attribution and camp-to-clinic progression.\n- Set a phased plan covering CRM, appointments, communications, integrations and analytics.\n- Preserved Sparta as clinical/billing authority and Tally as the accounting system within this design.\n\n## Delivery approach\n\nChannel enquiry → source-based assignment → branch follow-up → appointment or clinic visit → clinical/billing reference → management roll-up. Proposed integrations included Meta, Justdial, Google, WordPress, Practo, Smartflo and MSG91.\n\n## Results & project status\n\nThe source supports approved architecture and implementation groundwork. A September preview review identified unresolved authorisation and reporting gaps, so this is not presented as a completed enterprise CRM replacement. Named integrations describe requirements, not confirmed operational connectors.\n\n*Project record: A10 · Career Project Portfolio, page 32 · Updated 18 September 2026.*"
+    },
+    {
+      "id": "appointment-booking-engine",
+      "title": "Appointment Booking Engine Foundation",
+      "org": "ANKURAM IVF",
+      "icon": "Stethoscope",
+      "tags": ["React", "FastAPI", "Supabase", "Scheduling"],
+      "body": "Defined a public booking and operations-console foundation connecting branches, doctors, services, recurring schedules, leave, holidays and appointment status history.",
+      "status": "published",
+      "featured": false,
+      "cover": "",
+      "coverAlt": "",
+      "gallery": [],
+      "role": "Business workflow design and implementation direction",
+      "period": "2026 source-package record; exact project dates unspecified",
+      "outcome": "Appointment-platform implementation foundation; live acceptance remained pending.",
+      "details": "## The project\n\nConnected patient-facing appointment booking with the internal configuration and scheduling needs of centre teams.\n\n## My contribution\n\n- Defined masters for city, branch, department, service and doctor records.\n- Connected doctor assignments, recurring schedules, leave and holidays to bookable availability.\n- Established administrator, branch-manager and front-desk responsibilities with status history and audit records.\n\n## Delivery approach\n\nConfigure masters and availability → expose valid booking options → process bookings through backend controls → manage appointments within authorised branch scope → retain audit history. The documented stack is React/Vite, Python/FastAPI and Supabase, with email OTP and a WordPress embed route.\n\n## Results & project status\n\nThe source package establishes architecture and intended behaviour, including a transactional database function for public booking writes. Live booking volume, production integration and conversion improvement were not verified. This is an implementation foundation pending live acceptance.\n\n*Project record: A11 · Career Project Portfolio, page 33 · Updated 18 September 2026.*"
+    },
+    {
+      "id": "central-mis-clinical-information",
+      "title": "Central MIS & Clinical Information Foundation",
+      "org": "ANKURAM IVF",
+      "icon": "Cpu",
+      "tags": ["TypeScript", "Supabase", "Data governance", "RLS"],
+      "body": "Developed requirements and an implementation foundation for multi-centre identity, case records, clinical information, operational reconciliation and controlled access.",
+      "status": "published",
+      "featured": false,
+      "cover": "",
+      "coverAlt": "",
+      "gallery": [],
+      "role": "Requirements, data-ownership decisions and systems-delivery direction",
+      "period": "Aug 2026 source-package verification",
+      "outcome": "Historical package report: 79 core tests passed, 98.40% line coverage and 28 contiguous migrations; wider acceptance open.",
+      "details": "## The project\n\nDefined a multi-centre MIS foundation for Ranchi, Jamshedpur, Dhanbad and Medininagar, connecting patient/couple identity with case and operational records.\n\n## My contribution\n\n- Specified permanent patient identity, network Couple IDs, cases/cycles and clinical-information foundations.\n- Included attribution, accounts/pharmacy CSV reconciliation, controlled legacy import and document/consent records.\n- Addressed role-based access, privileged changes and auditability.\n\n## Delivery approach\n\nPreserve authoritative identity → capture permitted records → reconcile imports → control access and changes → retain audit evidence. The package uses React/TypeScript/Vite and Supabase PostgreSQL, authentication, RLS and database/Edge Functions. Its MIS/EMR database retains Sparta authority for registration IDs and official invoices/receipts.\n\n## Results & project status\n\nThe 17 August historical verification report records 79 passing core tests, 98.40% line coverage and 28 contiguous migrations. Full dependency-backed verification, live database/RLS checks, integration testing and staging acceptance remained open. The case demonstrates an implementation and security foundation, not a completed clinical rollout or organisation-wide migration.\n\n*Project record: A12 · Career Project Portfolio, page 34 · Updated 18 September 2026.*"
+    },
+    {
+      "id": "dynamic-qr-destination-management",
+      "title": "Dynamic QR Destination Management",
+      "org": "ANKURAM IVF",
+      "icon": "Workflow",
+      "tags": ["QR codes", "Redirects", "Campaign operations"],
+      "body": "Developed the requirement for a permanent QR address with an editable destination so printed campaign materials can remain useful as landing pages change.",
+      "status": "published",
+      "featured": false,
+      "cover": "",
+      "coverAlt": "",
+      "gallery": [],
+      "role": "Business requirement, deployment coordination and domain planning",
+      "period": "Sep 2026 project record",
+      "outcome": "Redirect service reported at a temporary URL; branded-domain acceptance remained outstanding.",
+      "details": "## The project\n\nMade reusable printed collateral easier to maintain by separating the permanent scanned address from the current campaign or service destination.\n\n## My contribution\n\n- Defined the persistent-address and changeable-destination requirement.\n- Worked through deployment and branded-domain considerations.\n- Planned protected destination management as a later stage.\n\n## Delivery approach\n\nPrinted QR → persistent redirect address → current approved destination. The operational requirement is that the printed code, redirect and controlled destination continue to agree.\n\n## Results & project status\n\nThe historical record reports a redirect deployment at a temporary application URL, with branded subdomain connection still outstanding. A protected management panel was a later stage. Scan volume, uptime and reprint savings were not measured.\n\n*Project record: A13 · Career Project Portfolio, page 35 · Updated 18 September 2026.*"
+    },
+    {
+      "id": "operating-procedures-management-enablement",
+      "title": "Operating Procedures & Management Enablement",
+      "org": "ANKURAM IVF · Blossom · Medica365",
+      "icon": "Building2",
+      "tags": ["Team leadership", "SOPs", "Training", "Quality assurance"],
+      "body": "Connected campaign delivery and system rollout with clear ownership, QA checks, escalation procedures and staff-oriented training and handover material.",
+      "status": "published",
+      "featured": false,
+      "cover": "",
+      "coverAlt": "",
+      "gallery": [],
+      "role": "Team leadership, process definition and operational enablement",
+      "period": "Nov 2022–Sep 2026 portfolio record; project dates vary",
+      "outcome": "Campaign SOPs and role-specific guidance; later administrative documents had differing approval and adoption status.",
+      "details": "## The project\n\nMade campaigns and systems more repeatable for the teams operating them, spanning creative production, telecalling, launches, training and management reviews.\n\n## My contribution\n\n- Managed in-house creative and telecalling teams and external agencies.\n- Defined campaign requirements, QA checks, escalation and launch procedures.\n- Developed role-specific English/Hindi guidance, release evidence and handover material.\n- Contributed requirements for administrative SOPs and management information.\n\n## Delivery approach\n\nDefine requirement → assign ownership and approval → document the process → prepare role-specific guidance → review usage and exceptions.\n\n## Results & project status\n\nThe resume associates this broader operating programme with approximately twice the marketing volume without proportional headcount growth, shared with automation and content operations. Some later documents remained drafts or requirements; their existence does not imply final approval or staff adoption. Administrative reporting contributions are not presented as ownership of the finance function.\n\n*Project record: A14 · Career Project Portfolio, page 36 · Updated 18 September 2026.*"
     }
   ]
 }
-

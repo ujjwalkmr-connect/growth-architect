@@ -38,19 +38,39 @@ test("untouched homepage sections retain their original component bodies", () =>
     assert.equal(hash(body), digest, name);
   }
 });
-test("existing experience, certifications and six projects retain every original field and ordering", () => {
+test("unrequested experience fields, certifications and original project cards remain unchanged", () => {
   for (const collection of ["experience", "certifications", "projects"]) {
     const items = read(`content/${collection}.json`).items;
     for (const [i, old] of fixture[collection].entries()) {
-      for (const [key, value] of Object.entries(old as object))
+      for (const [key, value] of Object.entries(old as object)) {
+        // The owner requested an ANKURAM experience rewrite from the 18 Sep dossier.
+        // Identity, ordering, current status, location and all other roles stay protected.
+        if (
+          collection === "experience" &&
+          i === 0 &&
+          ["role", "company", "period", "summary", "bullets"].includes(key)
+        )
+          continue;
         assert.deepEqual(items[i][key], value, `${collection}[${i}].${key}`);
+      }
     }
   }
 });
 test("each project has a unique stable URL id and all six CV additions are present", () => {
   const projects = read("content/projects.json").items;
-  assert.equal(projects.length, 12);
-  assert.equal(new Set(projects.map((p: { id: string }) => p.id)).size, 12);
+  assert.equal(new Set(projects.map((p: { id: string }) => p.id)).size, projects.length);
+  for (const id of [
+    "prison-inmate-rehabilitation-micro-manufacturing-program",
+    "rural-livelihood-micro-entrepreneurship-program",
+    "fieldops-healthcare-field-operations-platform",
+    "lead-data-reconciliation-crm-reliability",
+    "telecalling-performance-management-reporting",
+    "multi-platform-content-operations",
+  ])
+    assert.ok(
+      projects.some((p: { id: string }) => p.id === id),
+      id,
+    );
   for (const p of projects) assert.match(p.id, /^[a-z0-9]+(?:-[a-z0-9]+)*$/);
 });
 test("draft and future content is removed before client bundling", () => {
