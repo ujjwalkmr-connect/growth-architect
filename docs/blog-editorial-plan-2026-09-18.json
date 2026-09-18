@@ -1,0 +1,337 @@
+{
+  "preparedAt": "2026-09-18",
+  "author": "Ujjwal Kumar",
+  "site": "https://ujjwalkmr.vercel.app",
+  "status": "draft",
+  "audience": "Recruiters, founders, healthcare operators, growth leaders and product or operations teams evaluating practical cross-functional expertise.",
+  "keywordMethod": "Editorial intent mapping and current primary-source research; no search-volume, keyword-difficulty or ranking forecast is claimed.",
+  "publicationNote": "All articles are local CMS drafts. Cross-article links target this collection; publish the connected collection together or review linked draft destinations before publishing a subset. Publication date must reflect the actual publication day. Future dates require a new deployment on or after that day; this site has no automatic scheduled-post job.",
+  "technicalSeoNote": "The existing article route sets a title. The current code does not map excerpt to a per-article meta description or provide dedicated canonical/Open Graph/Article schema configuration. Descriptions and canonical targets below are prepared editorial values, not a claim that those tags are already implemented. No website code or layout was changed.",
+  "articles": [
+    {
+      "number": 1,
+      "slug": "healthcare-growth-beyond-cpl",
+      "category": "Growth & RevOps",
+      "primaryKeyword": "healthcare growth strategy",
+      "relatedTopics": [
+        "healthcare marketing metrics",
+        "cost per attended consultation",
+        "patient enquiry funnel"
+      ],
+      "intent": "Help a healthcare growth or operations leader diagnose acquisition quality and handoff losses beyond CPL.",
+      "seoTitle": "Healthcare Growth Strategy: Measure Beyond Cost per Lead",
+      "metaDescription": "Build a healthcare growth strategy that connects campaign spend, enquiry quality, follow-up and attended consultations with clear metrics and ownership.",
+      "evidence": [
+        "Career Project Portfolio A01, page 22",
+        "Career Project Portfolio A03, page 24",
+        "Current experience record: ANKURAM IVF"
+      ],
+      "claimBoundary": "Illustrative campaign figures; no invented clinical outcomes or programme uplift.",
+      "wordCount": 1403,
+      "readingMinutes": 7,
+      "canonicalTarget": "https://ujjwalkmr.vercel.app/blogs/healthcare-growth-beyond-cpl",
+      "internalLinks": [
+        "/blogs/crm-lead-reconciliation",
+        "/projects/ivf-growth-engine",
+        "/projects/telecalling-performance-management-reporting",
+        "/contact"
+      ],
+      "externalSources": [
+        "https://support.google.com/adspolicy/answer/143465?hl=en"
+      ]
+    },
+    {
+      "number": 2,
+      "slug": "crm-lead-reconciliation",
+      "category": "Data & automation",
+      "primaryKeyword": "CRM lead reconciliation",
+      "relatedTopics": [
+        "CRM data quality",
+        "repeat enquiries",
+        "lead attribution",
+        "idempotency"
+      ],
+      "intent": "Explain how to reconcile acquisition and CRM records without false matches, duplicates or unsupported attribution.",
+      "seoTitle": "CRM Lead Reconciliation: Build Data You Can Trust",
+      "metaDescription": "Learn how to reconcile Meta leads, spreadsheets and CRM records using clear identities, conservative matching, safe updates and verifiable attribution.",
+      "evidence": [
+        "Career Project Portfolio A07, page 28",
+        "ANKURAM IVF Work Dossier: Meta-to-Sheets-to-Bitrix24, Desktop v0.3 and historical audit"
+      ],
+      "claimBoundary": "28,122 approved leads is audit processing scope, not complete matching, revenue attribution or verified CAPI delivery.",
+      "wordCount": 1435,
+      "readingMinutes": 7,
+      "canonicalTarget": "https://ujjwalkmr.vercel.app/blogs/crm-lead-reconciliation",
+      "internalLinks": [
+        "/projects/lead-data-reconciliation-crm-reliability",
+        "/blogs/revops-dashboard-metrics-decisions"
+      ],
+      "externalSources": [
+        "https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/"
+      ]
+    },
+    {
+      "number": 3,
+      "slug": "reliable-marketing-automation",
+      "category": "Data & automation",
+      "primaryKeyword": "reliable marketing automation",
+      "relatedTopics": [
+        "workflow error handling",
+        "safe retries",
+        "automation monitoring",
+        "lead routing"
+      ],
+      "intent": "Help workflow owners design recoverable marketing processes and meaningful operational acceptance checks.",
+      "seoTitle": "Reliable Marketing Automation: Design for Failure and Recovery",
+      "metaDescription": "Design marketing automation with safe retries, clear ownership, useful alerts and recovery paths. A practical framework for dependable lead workflows.",
+      "evidence": [
+        "Career Project Portfolio A02, page 23",
+        "Career Project Portfolio A07, page 28"
+      ],
+      "claimBoundary": "Recommended reliability controls are not represented as implemented in every historical workflow.",
+      "wordCount": 1458,
+      "readingMinutes": 7,
+      "canonicalTarget": "https://ujjwalkmr.vercel.app/blogs/reliable-marketing-automation",
+      "internalLinks": [
+        "/blogs/crm-lead-reconciliation",
+        "/projects/automation-first-marketing-org",
+        "/projects/lead-data-reconciliation-crm-reliability",
+        "/contact"
+      ],
+      "externalSources": [
+        "https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/",
+        "https://developers.google.com/apps-script/guides/services/quotas"
+      ]
+    },
+    {
+      "number": 4,
+      "slug": "revops-dashboard-metrics-decisions",
+      "category": "Growth & RevOps",
+      "primaryKeyword": "RevOps dashboard design",
+      "relatedTopics": [
+        "marketing metrics",
+        "cohort reporting",
+        "data quality",
+        "management reporting"
+      ],
+      "intent": "Show managers how to build actionable dashboards with explicit definitions, trustworthy denominators and owners.",
+      "seoTitle": "RevOps Dashboard Design: Turn Metrics into Decisions",
+      "metaDescription": "Build a RevOps dashboard that connects metrics to decisions. Learn cohort reporting, metric definitions, data-quality checks and accountable reviews.",
+      "evidence": [
+        "Career Project Portfolio A04, page 25",
+        "Career Project Portfolio A03, page 24"
+      ],
+      "claimBoundary": "All mix-shift examples are hypothetical; attribution credit is not described as causal proof.",
+      "wordCount": 1381,
+      "readingMinutes": 7,
+      "canonicalTarget": "https://ujjwalkmr.vercel.app/blogs/revops-dashboard-metrics-decisions",
+      "internalLinks": [
+        "/projects/marketing-measurement-management-dashboards",
+        "/experience"
+      ],
+      "externalSources": [
+        "https://support.google.com/analytics/answer/10596866"
+      ]
+    },
+    {
+      "number": 5,
+      "slug": "field-operations-software",
+      "category": "Product & technology",
+      "primaryKeyword": "field operations software",
+      "relatedTopics": [
+        "field force management",
+        "offline workflows",
+        "role-based access",
+        "follow-up accountability"
+      ],
+      "intent": "Guide product and operations leaders designing useful field tools, with healthcare outreach as professional context.",
+      "seoTitle": "Field Operations Software: From Visits to Accountable Follow-Up",
+      "metaDescription": "Design field operations software around useful visits, accountable follow-up, branch access, offline work and practical rollout acceptance checks.",
+      "evidence": [
+        "Career Project Portfolio A08, page 30",
+        "ANKURAM IVF Work Dossier: FieldOps role and release milestones"
+      ],
+      "claimBoundary": "Release and staff distribution are distinguished from measured adoption or productivity; proposed offline controls are labelled.",
+      "wordCount": 1343,
+      "readingMinutes": 7,
+      "canonicalTarget": "https://ujjwalkmr.vercel.app/blogs/field-operations-software",
+      "internalLinks": [
+        "/blogs/ai-assisted-product-delivery",
+        "/projects/fieldops-healthcare-field-operations-platform",
+        "/contact"
+      ],
+      "externalSources": [
+        "https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html",
+        "https://developer.android.com/topic/architecture/data-layer/offline-first"
+      ]
+    },
+    {
+      "number": 6,
+      "slug": "ai-assisted-product-delivery",
+      "category": "Product & technology",
+      "primaryKeyword": "AI-assisted product delivery",
+      "relatedTopics": [
+        "AI product ownership",
+        "acceptance criteria",
+        "software verification",
+        "operations tools"
+      ],
+      "intent": "Help business and growth leaders use AI-assisted development with clear scope, human review and release evidence.",
+      "seoTitle": "AI-Assisted Product Delivery: A Growth Leader's Playbook",
+      "metaDescription": "A practical guide to AI-assisted product delivery: define the workflow, control scope, verify generated work and hand over a product teams can use.",
+      "evidence": [
+        "Career Project Portfolio A08, page 30",
+        "Career Project Portfolio A10, page 32",
+        "ANKURAM IVF Work Dossier: AI-assisted requirements, testing and release direction"
+      ],
+      "claimBoundary": "Accurately presents product ownership and AI-assisted delivery; does not claim sole manual code authorship.",
+      "wordCount": 1391,
+      "readingMinutes": 7,
+      "canonicalTarget": "https://ujjwalkmr.vercel.app/blogs/ai-assisted-product-delivery",
+      "internalLinks": [
+        "/projects/fieldops-healthcare-field-operations-platform",
+        "/projects/ankuram-os-revenue-operations",
+        "/experience",
+        "/contact"
+      ],
+      "externalSources": [
+        "https://docs.github.com/en/copilot/responsible-use/agents",
+        "https://dora.dev/research/2025/dora-report/"
+      ]
+    },
+    {
+      "number": 7,
+      "slug": "aeo-healthcare-websites",
+      "category": "Search & content",
+      "primaryKeyword": "AEO for healthcare websites",
+      "relatedTopics": [
+        "healthcare SEO",
+        "AI search visibility",
+        "content governance",
+        "answer engine optimisation"
+      ],
+      "intent": "Explain evidence-led healthcare AEO without guarantees of AI citations or unsupported clinical authority.",
+      "seoTitle": "AEO for Healthcare Websites: Build Useful, Trustworthy Answers",
+      "metaDescription": "Build a healthcare AEO strategy with clear answers, credible review, useful local information and honest measurement across search and AI discovery.",
+      "evidence": [
+        "Career Project Portfolio A05, page 26",
+        "Career Project Portfolio A09, page 31"
+      ],
+      "claimBoundary": "No measured AI-citation uplift is claimed; clinical review and operational content ownership remain separate.",
+      "wordCount": 1409,
+      "readingMinutes": 7,
+      "canonicalTarget": "https://ujjwalkmr.vercel.app/blogs/aeo-healthcare-websites",
+      "internalLinks": [
+        "/blogs/healthcare-growth-beyond-cpl",
+        "/projects/aeo-ai-search-alignment",
+        "/projects/ankuram-website-content-governance",
+        "/contact"
+      ],
+      "externalSources": [
+        "https://developers.google.com/search/docs/appearance/ai-features",
+        "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+        "https://developers.google.com/search/docs/appearance/ai-features"
+      ]
+    },
+    {
+      "number": 8,
+      "slug": "real-estate-lead-quality",
+      "category": "Real estate marketing",
+      "primaryKeyword": "real estate lead quality",
+      "relatedTopics": [
+        "property marketing",
+        "qualified site visits",
+        "campaign budget allocation",
+        "sales follow-up"
+      ],
+      "intent": "Help property marketing teams connect campaign promises, enquiry qualification, sales capacity and attended visits.",
+      "seoTitle": "Real Estate Lead Quality: From Enquiry to Qualified Site Visit",
+      "metaDescription": "Improve real estate lead quality through clearer campaigns, consistent qualification, sales follow-up and budget decisions tied to attended site visits.",
+      "evidence": [
+        "Career Project Portfolio H01, page 19",
+        "Career Project Portfolio H02, page 20",
+        "Career Project Portfolio H03, page 21",
+        "Earlier Superwave property communication work"
+      ],
+      "claimBoundary": "No invented sales, ROAS or revenue results; marginal-cost example is hypothetical.",
+      "wordCount": 1410,
+      "readingMinutes": 7,
+      "canonicalTarget": "https://ujjwalkmr.vercel.app/blogs/real-estate-lead-quality",
+      "internalLinks": [
+        "/blogs/revops-dashboard-metrics-decisions",
+        "/projects/residential-property-acquisition-campaigns",
+        "/projects/property-pipeline-budget-allocation",
+        "/experience"
+      ],
+      "externalSources": [
+        "https://support.google.com/analytics/answer/10917952"
+      ]
+    },
+    {
+      "number": 9,
+      "slug": "rural-market-rollout",
+      "category": "Field operations",
+      "primaryKeyword": "rural market rollout",
+      "relatedTopics": [
+        "kiosk onboarding",
+        "merchant activation",
+        "field distribution",
+        "agent network operations"
+      ],
+      "intent": "Help distribution leaders distinguish recruitment from readiness, continuing use and viable partner support.",
+      "seoTitle": "Rural Market Rollouts: From Kiosk Onboarding to Active Use",
+      "metaDescription": "Plan rural market rollouts around site readiness, operator training, activation and continuing use, with lessons from kiosk distribution experience.",
+      "evidence": [
+        "Career Project Portfolio R01, page 8",
+        "Career Project Portfolio R02, page 9"
+      ],
+      "claimBoundary": "350+ kiosks are included within the wider 1,200+ network; both are historical. Economics are fictional, not current pricing or profitability claims.",
+      "wordCount": 1404,
+      "readingMinutes": 7,
+      "canonicalTarget": "https://ujjwalkmr.vercel.app/blogs/rural-market-rollout",
+      "internalLinks": [
+        "/blogs/field-operations-software",
+        "/projects/retail-banking-kiosk-rollout",
+        "/projects/saral-pe-fintech-launch",
+        "/projects/rural-livelihood-micro-entrepreneurship-program"
+      ],
+      "externalSources": [
+        "https://www.cgap.org/research/publication/agent-management-toolkit"
+      ]
+    },
+    {
+      "number": 10,
+      "slug": "growth-it-leadership-first-90-days",
+      "category": "Growth & RevOps",
+      "primaryKeyword": "growth and IT leadership",
+      "relatedTopics": [
+        "first 90 days growth leader",
+        "RevOps leadership",
+        "cross-functional operations",
+        "growth operating model"
+      ],
+      "intent": "Demonstrate a practical leadership approach to hiring teams and leaders aligning growth, operations and technology.",
+      "seoTitle": "Growth and IT Leadership: A Practical First 90 Days",
+      "metaDescription": "A first-90-days plan for growth and IT leadership: map the journey, establish a baseline, fix a bottleneck and build accountable operating routines.",
+      "evidence": [
+        "Current experience record: Head of Growth & IT, ANKURAM IVF",
+        "Career Project Portfolio: measurement, CRM, FieldOps and operating procedures",
+        "ANKURAM IVF Work Dossier"
+      ],
+      "claimBoundary": "A proposed leadership plan rather than a guaranteed 90-day transformation or a retrospective claim.",
+      "wordCount": 1442,
+      "readingMinutes": 7,
+      "canonicalTarget": "https://ujjwalkmr.vercel.app/blogs/growth-it-leadership-first-90-days",
+      "internalLinks": [
+        "/blogs/revops-dashboard-metrics-decisions",
+        "/experience",
+        "/projects/operating-procedures-management-enablement",
+        "/projects",
+        "/contact"
+      ],
+      "externalSources": []
+    }
+  ],
+  "totalWords": 14076,
+  "sourceCount": 12
+}
